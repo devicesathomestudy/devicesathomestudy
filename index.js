@@ -139,7 +139,7 @@ function launchViz(data){
        return d3.ascending(a.type, b.type)
     })
        // set the dimensions and margins of the graph
-       var margin = {top: 20, right: 20, bottom: 30, left: 900},
+       var margin = {top: 400, right: 20, bottom: 30, left: 900},
           width = 12000 - margin.left - margin.right,
           height = 6500 - margin.top - margin.bottom;
  
@@ -163,11 +163,20 @@ function launchViz(data){
        var svg = d3.select("#resultsGraph").append("svg")
           .attr("width", width + margin.left + margin.right)
           .attr("height", height + margin.top + margin.bottom)
+          .call(d3.zoom().on("zoom", function () {
+            svg.attr("transform", d3.event.transform)
+         }))
        .append("g")
-          .attr("transform", 
-                "translate(" + margin.left + "," + margin.top + ")");
+        
+       .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
  
- 
+        svg.append("g").attr("transform", "translate(-500,-100)")
+            .append("text")
+            .style("font-size","50px")
+            .style("font-weight","bold")
+            .text(function(d,i){
+                return "Device Configuration Photo Analysis"
+            })
  
        var max = width;  
        var minX = -600
@@ -181,20 +190,37 @@ function launchViz(data){
  
        // var path = makeCurlyBrace(100, 100, 100, 400, 1, 1)
        var X = -400
-       var offset = 87;
+       var offset = 82;
 
        var playa = [0, 6, 4, 1, 4, 11, 9, 5, 11, 3, 4, 3, 5,3, 5]
-       var name = ['Place', 'Physical Artifacts', 'Lighting', 'Output', 'Input', 'Lighting', 'Fixation', 'Distance', 'Device', 'Workspace Size', 'Orientation', 'Number of Workspaces', 'Form_Homogeneous to Heterogeneous']
-        var color = d3.scaleOrdinal(d3.schemeDark2 );
+       var name = [
+           'Place', 
+           'Physical Artifacts', 
+           'Lighting', 
+           'Output', 
+           'Input', 
+           
+           'Fixation', 
+           'Distance', 
+           'Device',
+           'Workspace Size', 
+           'Orientation', 
+           'Number of Workspaces', 
+           'Form_Homogeneous to Heterogeneous'
+        ]
+        var color = d3.scaleOrdinal(d3.schemeDark2);
        
     var minA = 0;
     var maxA = 0;
-    for (var i =0; i < playa.length-1; i ++){
-
+    var maxABarackket = 0;
+    var coloreuuh = ['red', 'blue']
+    for (var i =0; i <playa.length-1; i ++){
         minA += playa[i] * offset;
-        maxA += playa[i+1] * offset;
-        addBG(svg, minX, max,minA, maxA, color(i));   
-        appendBracket(svg, X, minA, X, maxA, name[i], 10, 0.6);
+        maxA = playa[i+1] * offset;
+        maxABarackket += playa[i+1] * offset;
+        console.log(minA, maxA)
+        addBG(svg, minX, max, minA, maxA, color(i));   
+        appendBracket(svg, X, minA, X, maxABarackket, name[i], 10, 0.6);
         
     }
 
@@ -271,7 +297,7 @@ function launchViz(data){
                 //    .style("top", (window.scrollY + BB.y - 35) + "px");
                 // console.log('<img src=Viz/image '+d.Sketchnotes+'.jpg>')	
                 // div.html('<img src="visualization/Viz/image ('+d.part+').png">')
-                div.html('<img class="imageHover" width="200px" src="images/'+ d.idUser +'.png">')	
+                div.html('<img class="imageHover" width="200px" src="images/miniatures/'+ d.idUser +'.jpg">')	
                     .style("position", "absolute")		
                     // .style("position", "absolute")		
                    .style("left", (BB.x + 100 + window.scrollX) + "px")		
@@ -330,7 +356,7 @@ function launchViz(data){
              .attr("xlink:href", function(d,i){
                 // return  "visualization/images/avatar.png";
                 // return  "visualization/Viz/image ("+d.part+")Cropped.jpg";
-                return  "images/"+ d.idUser +".png";
+                return  "images/miniatures/"+ d.idUser +".jpg";
              })
  
           g.append("rect")
@@ -395,6 +421,7 @@ svg.append("g")
     .style("font-size","16px") 
     .style("font-family","Roboto")
     .call(d3.axisLeft(y).tickFormat(function(d){  
+        // return d
         return d.replace(/ *\([^)]*\) */g, "").split('_')[2] + " #" + d.replace(/ *\([^)]*\) */g, "").split('_')[3];
     }));
  

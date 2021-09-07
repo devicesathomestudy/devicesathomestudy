@@ -1,0 +1,907 @@
+Id,Description,(Optional) Upload image of first activity here - Name,Frequency,Pattern Code,Tasks,Notes
+P16,"Email
+- checking multiple email accounts: work, personal
+- Have all the email on one screen
+- Outlook (both Android and PC - replaced default google email) exclusively
+- work: dozens of parties for constant emailing and meeting notifications; personal: about 6 personal email accounts for different purposes 
+Config: 
+- How - on PCs, Office365 suite (business for work; both bus and home for personal); Outlook app for the Android and tablets replaced the Google apps that came default
+- Each device has the Office suite or Office apps installed and maintained by me",4.jpg,Multiple times a day,Clone,Communication - Emails,Work and personal communications
+P41,use the surface pro 2 and I phone in various places n the house at the same time - mainly on the kitchen table in the mornings for email etc.,,Daily,Clone,Communication - Emails ,
+P98,"1. Activity involves kids zoom or skype lessons where I need to move the video and audio content from my phone or Surface Book to the TV
+Today, I am connecting the devices using cable",,Multiple times a day,Clone,Learning,Involving kids needs to move to bigger screens?
+P6,"I often use a couple devices to play music through Spotify. I have the Spotify app on my notebook PC, my Iphone, and my iPad Pro. My notebook PC will be in front of me in my home office, a bluetooth speaker will be to my left, and the iPhone and iPad will be nearby, usually to my left. Spotify starts when I boot my notebook PC. When I open it on my iPhone or iPad, it's synchronized across all my devices. If I want to change the song or the volume, I can do that on any of my devices and it'll happen right away.",,Daily,Clone,Music play,Good example
+P43,"Back when our gym was open pre-pandemic, I tracked my workouts using an app (FitBod) that has a great Apple Watch app. Nevertheless, sometimes the Watch app was buggy and I would have to use my phone to correct things or alter my workout. I also used my phone for music and my watch for controlling playback and volume. I would also browse my phone between reps, e.g., to respond to emails or text messages or jot down reminders.",,Never,Clone,"Music play and control
+Fitness tracking",Great examples for wearable?
+P63,"Calendaring - Using google calendar as Base sync to phone, tablet and two Win 10s Outlook. Use gSyncit. Apples miss some deletes and have to be done twice often. Spouse has same arrangement (only one Win10). We share calendars, most mostly use invites. Location tracking enable on iPhones; (google and). Tile devices used as equipment locatos. Thoshibas never leave office; every thing else in motion.",,Multiple times a day,Clone,Schedule,Calendar is another things for clone 
+P52,Lighting controls are shared to all devices.,,Multiple times a day,Clone,Smart home - lighting controls,Ubiquitous example for clone
+P87,"Activity: Home monitoring
+-using sensing devices to monitor temperature, motion, humidity, activity and to control lamps, or generate alerts for intrusion.
+-A smart hub like the Smart things kit or Nest home, sensors, a smart speaker (Echo/Echo spot), mobile phone and TV for display.
+- Alexa mobile, smart things app on phone.
+- family members
+
+Configuration: The smart sensor devices are positioned in places like home doors and staircase to detect moving objects. The sensors report back to a smart things hub which conveys the information to Amazon Echo. The Eco and Echo spot are positioned to make announcements when intrusion is detected during scheduled hours. This is also displayed on the TV. Some of the motion sensors trigger lamps and they also turn on/off during scheduled times in certain areas.
+
+-The smart hub in centrally located in the living room. Sensors are mounted/stuck in different parts of the home on walls and doors. The speakers are located in the Kitchen counter and the living room. TV sits on a table in the living room. ",,Multiple times a day,Clone,Smart home - monitor home ,
+P48,"I will often use a TV has a wireless display for my laptop when sharing something with family. I'm usually at the kitchen counter, or on the couch or something. Instead of having everyone crowd around I'll cast the picture, the web page, the YouTube video, whatever wirelessly up on the big TV in the room. ",,Monthly,Clone,Streaming media,Sharing as motivation and in public space 
+P65,Surface Pro 6 connected to Sony XBR via HDMI (through Onkyo home theater) for streaming when Google Smart TV app not available. ,,Weekly,Clone,Streaming media,
+P31,Media consumption using an ultrabook connected to a large TV via HDMI for viewing Netflix and other streaming services. This is used by me and my wife.,,Daily,Clone,Watch TV,Multiple users
+P93,"Movie/TV
+-Watching movie or TV. Mostly done on my gaming PC with 32"" monitor. Sometimes I extend to 55"" or 1080P projector. ",,Weekly,Clone,Watch TV,
+P29,"Emailing (personal and work)
+Sending and receiving personal and work email.
+Microsoft Outlook (desktop), Microsoft Outlook (Android), Gmail (Android), Windows 10 Mail App, WearOS Notification (both Outlook and Gmail), outlook.office.com (Office 365), www.outlook.com, Chrome, Edge Legacy, Edge Chromium, Opera.
+
+I receive and send email throughout the day from a variety of devices at a number of locations.  I receive notifications on either my watch or one of my devices and read/respond to messages using the tools available at the time depending on my location.  I have both a personal and work Office 365 account.  My personal account is attached to Outlook for Android on my phone and my work one is attached to Gmail.  Depending on the machine I'm at, I will respond to messages using the Outlook Desktop app, Gmail (Android), or Outlook.Office.com (for work email).  For personal email I'll typically use Outlook.com, Outlook (android), or the Windows 10 mail app.
+
+Placement is all over the place depending on where I am and the device I have most handy.",,Multiple times a day,Clone ,Communication - Email ,Receive notification and reply 
+P97,"2. Read corporate email - access to the internet - typically Microsoft Remote Desktop Client app and Windows Virtual Desktop - only me. I exclusively use WVD as it works on multiple devices (all that I own) and does not require domain join or Intune mobile device management enrollment, and compliance with Conditional Access device health and device management rules. 
+",,Multiple times a day,Clone ,Communication - emails ,Need to make sure work emails can be accessed via multiple devices
+P93,"Gaming
+-Custom gaming PC + monitor is primarily the only thing. Sometimes I turn on the projector or 55"" TV and extend the screen and move the video game for a larger gaming experience. This almost always means I'm switching away from keyboard/mouse to an Xbox controller.
+Gaming PC setup in front of me, then 55"" TV on a dresser to the right, then a projector in between those projecting behind me on the bedroom wall.
+
+",,Multiple times a day,Clone ,Game Play,Need a larger screen 
+P63,"Home monitoring - have about 15 Arlo cameras in two locations monitored via phone, tablet , or pc. Two doorbells, one Ring , one Arlo. Generally monitored via Apples.
+
+One Nest thermostats In each house and one Nest protect in each. Generally monitor via Apples",,Daily,Clone ,Smart home - monitor home ,
+P76,"Watching videos.
+
+I have an Apple ecosystem where I’m able to upload videos and watch them on any device from my iPhone to airplay one Apple TV or my Mac Pro. 
+
+Typically, I stream D+ or Netflix. I have a Google Fiber internet connection with wired connectivity to all of my devices through a switch network. ",,Weekly,Clone ,Streaming media,
+P77,"casting screen of laptop or screen to TV
+allows more easy sharing of information than passing a device around
+airplay connection to Apple TV or directly to Vizio TV from iPhone or Mac
+me and whoever I am trying to show things to
+
+I am controlling the phone/laptop whose screen is showing on the TV
+Large TV is in front of the living room, while I am in the back on a couch",,Weekly,Clone ,Streaming media,
+P15,#NAME?,,Weekly,Clone ,Watch TV - streaming,
+P60,"I use an original Surface Pro, soldiering on without complaint or issue, for general browsing and to produce digital paintings through a tethered Xpen drawing tablet.  We can also access the TV's and the various Amazon Echo/Alexa devices to share music, video, pictures.  We cast Youtube to the TV's through laptops, phones, tablets, etc. I have a number or art related programs but the one I use and love most, is still Microsoft FreshPaint!  I sorely wish that you guys had kept working on this wonderful program.  ",Setup 2.jpg,Weekly,"Clone, Integrate","Browse and Draw
+Media Casting",
+P70,"- Having an office hours meeting with a student. 
+- Currently involves the following: 
+  - Student uses calendly.com to automatically set a meeting with me. 
+  - Apple watch notifies me (through the Outlook app) that this meeting is scheduled.
+  - Meeting is added to my Apple Calendar. 
+  - On the day of the schedule meeting, Apple Watch tells me meeting is about to start.
+  - On my iMac I pull up Apple's Calendar app and click on the meeting, Zoom link is already embedded. Clicking that launches Brave, which then opens Zoom and starts the meeting.
+  - If the students needs to discuss something whiteboardy I pull out my iPad and Apple Pencil and give impromptu whiteboard explanation shared through my iMac over Zoom. 
+  - I probably sit down to do the whiteboard part and tilt the iMac monitor down so that the student can still see me. ",,Multiple times a day,"Clone, Integrate","Schedule and Notification
+Meeting and Discussion",Whiteboard often associates with discussion
+P36,"Steaming Live concerts in the new stay at home era
+* Some concerts are only availlable on Facebook Live. Physically I use my Samsung Galaxy S9+ phone to launch the facebook app. I mirror the phone to the big screen TV using samsung smartscreen. I have my ipad open to text with friends during the concert. My wife will have her iphone open for texting friends. My wife has her laptop open to follow the facebook live stream and read comments. We use texts and message apps instead of voice since we are watching a live concert. (A similar model might present itself for gaming nights on the laptops and ipads but with Voice on a phone conference line.)
+What: Watching a live concert as a family from home
+SW: Facebook app, verizon text messages app, apple messaging app, samsung smart mirror, facebook web site
+Who: me and spouse
+Physical - phone is next to me but connected wirelessly to TV; ipad on my lap. Wife on couch with laptop on arm, phone switches between lap and next to her. Sometimes it will be her laptop, sometimes her ipad.",,Weekly,"Clone, Integrate","Watch concert 
+Watch concernt and Communication - check comments",Classic clone streaming case! 
+P6,"Activity: signing into accounts. I've recently started using Microsoft Authenticator. Now, when I sign into certain accounts (Microsoft, Twitter), I'll get a notification on my iPhone and Apple Watch. When I respond to that notification, it'll authenticate that I'm who I say I am and let me know. For example, recently when I startup my HP Notebook PC, I get a complaint message that ""OneDrive is not signed in"". I can click to authenticate which sends a message both to my iPhone (usually nearby) and my Apple Watch (very often I'm wearing this), and then choose one of them to do the validation. The software involved is Microsoft Authenticator and the native Twitter app, or the OneDrive software on the Notebook PC under Windows 10.",,Multiple times a day,"Clone, Migrate",Authentication,
+P66,"Teams and email (communication) both on the device that’s easiest at the time. I can be out walking the kids and be on a teams meeting with my phone. The couch and the surface go well together when the iphone screen is too small.
+",,Multiple times a day,"Clone, Migrate",Communication - chat and emails ,"Easiest and mobility
+Migrate when the screen is too small"
+P7,"Monitoring e-mail messages.
+Sofware is Windows 10 on my HP desktop or laptops.
+Also Android software on My Blackberry.
+I just put the Blackberry on the mousepad for the HP or beside the laptop.
+I may read emails on either device - if I am watching a video on the desktop, I might read emails on the phone.
+If I get up and move around I use the phone.
+If I am in my office watching TV, I might be reading something on a website with the desktop and checking email on the phone. ",,Multiple times a day,"Clone, Partition","Communication - Emails 
+Communication - Emails and watch TVs/Reading Document",
+P18,"Play Blizzard games during breaks, such as Heroes of the Storm. When the monitor is in portrait orientation, the resolution cannot be selected. Unable to play games normally in windowed mode. Equipment: dell u2413 & u2718q, nVidia gtx1066, win2004.",,Daily,Expand,Game Play,
+P59,Gaming. Intel NUC + windows laptop for Age of Empires multiplayer. ,,Rarely,Expand,Game Play,
+P66,"Gaming: dell desktop, I use the main screen.",,Daily,Expand,Game Play,
+P77,"PC Gaming
+Bootcamped MacBook plugged into thunderbolt eGPU dock plugged into Monitor.
+Use various games platforms such as steam and origin.
+Usually just me or online friends.
+
+The Macbook is out of the way and is pretty much just a desktop. External keyboard and mice are plugged into the egpu dock, as is a monitor.",BURST20190828230812878-01.jpeg,Weekly,Expand,Game Play,Expand can be using all resources for one taks 
+P68,I update the sites and services map for our active directory.  I use the active directory topology diagrammer and Visio. The large screen is a godsend for this task....the cat isn't much help,IMG_20200726_212209.jpg,Monthly,Expand,Map Editing,Require screen size
+P76,"1: Development work-
+
+I utilize both a MacBook Pro and Mac Pro simultaneously in my office for development.
+I do UI/UX development work and front-end development. 
+To use this, I have set up an app called Synergy that allows me to use one keyboard and mouse with two computers in a three-monitor setup. I’m able to drag and drop files amongst the two systems and copy/paste rather well.
+If you look at image 3, you’ll see the set up I’m mentioning. I work with just myself but collaborate with coworkers remotely. ",,Multiple times a day,Expand ,Development ,Expand input modality 
+P4,"Gaming
+Laptop
+Steam
+I play the videogames
+--------
+I play in the laptop using keyboard and mouse
+I sit in front of desktop. In the desktop there's the laptop and monitor",,Daily,Expand ,Game play,monitor needed to focus in the game?
+P22,"My work consists of Design and Simulation of 3D CAD Models. I use my Laptop and Desktop for it. The software used are HYPERMESH, CREO and ANSYS.
+
+I use HYPERMESH on my laptop as it is less resource intensive and I need to use it more frequently than other two software. CREO and ANSYS need more resources and are graphics intensive software and for that I use my desktop PC. In office, I only use my laptop while at home, both the devices are placed side by side on the table for parallel usage.",Annotation 2020-07-14 101427.png,Daily,Integrate,3D Modeling,Distribute based on computing power needed 
+P46,Two factor authentication to start my work vpn.,,Daily,Integrate,Authentication,
+P88,"Transferring an image from my phone to computer.
+
+On my mac, I use airdrop to transfer data from my phone. On my windows PC, I save the image onto OneDrive from my iPhone and access it using Windows explorer.
+
+I usually take pictures on my desk using my phone and upload them in the same locations as my Windows or Mac PC.",,Daily,Integrate,Camera and Accessing Photo,
+P24,"Describe activity:
+- Responding to emails simultaneously on my laptop and phone
+- Answering emails
+- ThinkPad: Outlook, Windows 10, Sticky Notes, Edge Canary; iPhone - Outlook, Apple Calendar, iCloud Notes
+
+
+Configuration:
+- Because it's a ThinkPad Yoga, I sometimes alternate between tablet mode, laptop mode, or presentation mode. My phone is on the table, and I pick it up as needed.
+- ThinkPad on the table, phone in my hands. ",,Multiple times a day,Integrate,Communication - Emails,
+P89,Reading and responding to emails & Teams messages using Ms Outlook and Teams - on my work laptop and my iPhone,,Multiple times a day,Integrate,Communication - read and reply,Maybe migrate or integrate
+P5,"- Online Conferences
+- The activity involves video calls with other members of the team, giving lectures on conferences, and attending community events
+- Microsoft Teams, Onenote
+
+- HP Folio 13 is connected to TV, where I place the video input from the meeting. On Surface Pro 7 I use the chat, camera and microphone to communicate in the same meeting, and eventually share content, but I don't use the video input. Also on this device I use OneNote to take notes. Please see pictures for positions. HP Folio 13 is connected through a wired network, while Surface Pro 7 is on WiFi unless really important conference.",IMG_20200713_230807.jpg,Daily,Integrate,Conferences,Classic integrate input/output modality
+P23," Managing/viewing/listening to media from the server; involves curating music, video and picture library (currently over 1TB of data); maintaining backup drive, maintain OneDrive and managing Plex software and service; Additionally, various video streaming services are installed and used on the server; When running a video netcast, the consumer feed is monitored on the server's large screen;  Primarily only one person involved, but occasionally in-studio guest is; They are position against left wall, off-camera.",,Multiple times a day,Integrate,Content Curation,
+P61,"I do my work from a desk using my laptop with two extension monitors. My work involves data analysis and computer programming. I use remote desktop software, python, VS Code, and JupyterLab primarily. They are on a desk with the largest Monitor in the center and the laptop off to the side. ",image.jpg,Daily,Integrate,Data Analysis and Development,
+P15,#NAME?,,Daily,Integrate,Development,
+P35,"Mobile App Development
+- Visual Studio w/ Xamarin.
+- MacBook Air (idling in the background).
+- iPhone and iPhone simulator.
+- Android phone(s) and Android emulator.
+- Usually from my desk.",,Multiple times a day,Integrate,Development,
+P35,"Web Development
+- PC, SP7 & mobile devices.
+- Usually from my desk.",,Multiple times a day,Integrate,Development,
+P59,"Software development for fun. 
+MacBookPro, Windows laptop, intel nuc, raspberry pi",,Monthly,Integrate,Development,
+P66,"I like my dell workstation, even though it’s old, it’s got 96gb ram and 12 cores/24 threads. I like it for software development. I use all the screens.",,Multiple times a day,Integrate,Development,
+P68,"Using VS code, Notepad++, and Microsoft MDT, I Work on an encryption migration project.  Same screen layout as before",IMG_20200726_212000.jpg,Multiple times a day,Integrate,Development,
+P77,"App/Web development
+Macbook, phones
+Android Studio, VSCode, XCode
+Me
+
+If making an app, phones are connected via cable or wirelessly to laptop in order to test on device.
+For websites, I run a local server on the laptop so I can view them on phones and check layout, etc.
+
+Laptop is on desk with phone also on desk or physically in hand",,Weekly,Integrate,Development and Testing,
+P87,"Activity: Work
+
+- Daily work
+- Meeting with colleagues, programming, debugging and development
+- Windows, Linux, teams, outlook, and work specific software.
+- me and colleagues
+
+-Configuration: Surfacebook laptop and additional monitor. Test and debug devices, linux laptop and my phone, spread between two desks.
+-Laptop and monitor to do software related work, check email, video calls. Test and debug devices for other test work.
+-Positioned on two tables next to each other. One with a laptop and monitor setting. The other with debug, a separate linux laptop and test devices.
+",20200710_175216.jpg,Multiple times a day,Integrate,Development and Testing,Classic dev setup
+P90,"Activity
+- Embedded Hardware/Firmware debugging
+- Physically interacting with hardware and electrical test equipment while writing and debugging code, view schematics, data sheets, etc.
+- VS Code, Embedded programmer/debugger, Alitum DXP, PDF Viewer, Web Browser, Logic Analyzer Software, etc.
+- Just me
+Config:
+- HP Z420 (work desktop) with 3 monitors, digital oscilloscope (with integrated display) and other supporting test equipment (power supplies, multimeter, etc).
+- 3 monitors centered on sit/stand desk (almost always in the standing position when working with HW), hardware work bench at roughly standing height to the right of the computer desk. Work bench contains hardware prototypes, oscilloscope and other test equipment. All computer input from wireless keyboard and mouse, and test equipment input provided directly (front panel buttons) with the exception of the oscilloscope which also has an additional wireless mouse kept on the hardware bench.",20200713_233555074_iOS.jpg,Multiple times a day,Integrate,Development and Testing,
+P91,"Software development:
+- Occasionally I write software that requires multiple endpoint.  
+- If a Virtual Machine isn't practicable (e.g. I need physical sensors from the hardware), I use my main workstation as one endpoint and the laptop as another.
+- My laptop is oriented 90deg to my left.
+- Often I will use Remote Desktop to connect to the laptop to avoid having to swivel back and forth.  Since my main workstation has multiple monitors, I can easily put the laptop's RDP window on the secondary monitor.
+",InkedIMG_9066_LI.jpg,Multiple times a day,Integrate,"Development and Testing (multiple endpoints)
+",
+P21,"- Digital Painting / Sculpting
+- using my wacom tablet to either do digital paintings (for game textures or just as standalone pieces) or sculpting 3D meshes
+- Krita, Blender, Edge to find resources and inspiration art
+- just me
+
+- Using Wacom tablet connected to Either desktop or laptop, yogabook on the side with built in wacom tablet for minor tweaks",,Weekly,Integrate,Digital Art ,
+P12,"Scanning documents, using Office app on mu Phone and transferring them to PC or laptop, Office app",,Weekly,Integrate,Document Scanning,Use camera from the phone
+P40,"The second activity was scanning paper documents using my iPhone. Either my Lenovo ThinkPad laptop or my iPad is used to send scanned documents, including assignments to be submitted to my lecturer using my college Outlook (365) email. I used a scanning app called Microsoft Office Lens to scan documents. My scanned documents have been synced via OneDrive provided by my college, so that the documents from my iPhone are accessible on either my Lenovo laptop or my iPad.",,Multiple times a day,Integrate,Document Scanning,Modality example
+P45,"Writing documents / concepts.
+Intel NUC, my server and own  and customer Azure test ressorces
+Microsoft Office and Microsoft Visio - Onedrive and customer SharePoint as storage
+Mainly myself
+
+Intel NUC with 2 4K monitors is used and a big help if you do documentation or do concept work. Easy to have several terminal sessions open and switch beetween them
+",,Daily,Integrate,Document Writing and Reference,
+P58,"Describe the activity: 
+   - What is the activity?  
+Virtual game night where we'll use zoom to talk to and play games like jackbox with friends
+   - What software is involved in this activity? 
+   zoom, jackbox game, browser
+- Who is involved? 
+
+Me, fiancee, and friends (virtually)
+
+- Describe the configuration:
+Surfacebook, iPhone, tv
+   - How are you using the devices? 
+Surfacebook for the zoom call and staying the game, casted to the TV. Iphone to play along 
+
+   - How are they positioned physically in the space?
+
+We're on the couch, laptop on our Ottoman, TV in front of that ",,Weekly,Integrate,Game Play and Communication,Hybrid co-located and remote
+P98,Activity involves kid playing xbox with his classmates; they want to see the leaderboard and talk while playing Xbox. . Kid is Xbox or Nintendo Switch for playing; (Cant see leaderboard unless he switches the screen) and uses headphones for talking. ,,Multiple times a day,Integrate,Game Play and Communication/Collaboration,
+P79,"Knowledge Work & Research - some on our corporate network (Cisco AnyConnect VPN, O365, Firefox, Various Corporate Apps and limited Internet) and access to Social Networks on personal devices that include web sites/services that are blocked from use via the corporate network.  Also O365 and Firefox/Chrome/Edge.",,Daily,Integrate,Knowledge Work and Research ,Had to use personal device because some sites are not accessible 
+P22,"Learning and Skill Enhancement. I regularly enroll in various courses on Coursera and edX. I use all the three devices for it. I use edX and Coursera website on laptop and desktop while Coursera and edX app on my phone.
+
+Mostly, I perform various hands-on activities on laptop and/or desktop while I use mobile app for watching lecture videos.",Screenshot_20200714-102004.png,Daily,Integrate,Learning - Watch and Activities,Interesting once
+P40,"The first activity was taking notes from my online classes, using my iPad Air (3rd Gen) with Apple Pencil.
+I use my Lenovo laptop connected to its dock to connect to my two monitors for online calls and class sessions from my college using Microsoft Teams. The iPad was placed on a table on the portrait position, and I write my notes using an Apple Pencil and an app called Notability.",,Multiple times a day,Integrate,Learning and Note Taking,Modality example
+P86,#NAME?,,Weekly,Integrate,Learning and Note Taking,
+P54,Work video meetings involves laptop microphone cellphone,,Multiple times a day,Integrate,Meeting,
+P49,"Teams work call
+
+- dial in from Desk on iPhone X using Bose 700 headphones
+
+- join teams call also on my surface book2",,Multiple times a day,Integrate,Meeting - audio and others,
+P85,"Conduct Microsoft Office 365 and Teams training ..., Lenovo main device, headset, also use Surface Pro to monitor chat, Use both GoToWbinar and Teams meeting ... devices adjacent on desk and small table. Use iPhone to trouble shoot connectivity issues. Training for school district personnel- teachers, administration, and secretaries ",,Weekly,Integrate,Meeting - Training and Technical Support,
+P43,"When I am on a Microsoft Teams call for work (usually with someone sharing their screen), I will often join on both my work laptop and my phone. I will then mute my work laptop and put my phone on speakerphone so I can move about my apartment if necessary and still hear and follow along on my phone.",,Multiple times a day,Integrate,Meeting - Video and Audio,Classic integrate input 
+P33,"For my weekly live webinar I run OBS Studio on my desktop connected to my TV, which routes audio and video feeds into Zoom.  Up to 10 participants are involved in the stream, with 80-100 unique views each week but an average of 2-3 viewers per ""view.""
+My desktop is set up for controlling the steam, and I have my Surface Pro pulled up for communications and to view the script.
+I sit on my couch with a wireless keyboard/touchpad combo, and have my tablet beside me.",,Weekly,Integrate,"Meeting - Webinar (control stream, communciation, view notes)",Classic meeting scenario
+P43,"When joining a ZOOM call where I am not actively participating but a chat is enabled (e.g., a live interview with an author), I will often connect on both my iPad and my phone and connect my iPad to my TV so I can watch on a larger screen from my couch. I will then connect to the same ZOOM call on my phone and turn the volume down so that I can use my phone to follow along with the chat and type questions.",,Monthly,Integrate,Meeting - Webinar and Communication - Chat ,
+P57,"Joining a teams online meeting from my home office to go with a client about their IT or security network design with myself and sometimes another teams member. I use Microsoft teams, digital whiteboard explain everything, office 365 documents and tools. I use my iPad to screen share my digital whiteboard, my iPhone for internet audio on teams, and my surface for large screen view and web cam. iPad flat down  my desk with Apple pencils, iPhone on stand t my left, surface standing up with larger monitor above. ",DAD1DE63-AE63-4743-ADF2-21F96CE3EB5A.jpeg,Daily,Integrate,Meeting and Content Sharing,Good example for collaboration and meeting
+P57,Same activity as first client call with Microsoft teams. I have my iPad on my lap with magic keyboard case and phone on my lap with trucker Bluetooth headset with wind mic. ,80F726F6-AD55-4F75-BF63-B15FC4650DF1.jpeg,Weekly,Integrate,Meeting and Content Sharing,
+P28,Teams meetings- I am using Teams for the video call(sometimes use Zoom with individuals outside my organization).  I use the Surface Book 3 as the device for conducting the video meeting and use the Surface Pro X with OneNote for taking notes.  I am usually using the stylus and writing the notes down on the Surface Pro X in OneNote.,,Multiple times a day,Integrate,Meeting and Note Taking,
+P86,"During team meetings, I use my iPad and Microsoft teams for the video call and my desktop computer for reference PDFs. The whole company is involved and we go over the project list. The iPad is on my desk propped up so the camera can see me.",,Weekly,Integrate,Meeting and Reference (docs),
+P90,"Activity
+- Video conferencing
+- Communicating with teammates and occasionally looking at supporting materials outside of the Teams call.
+- Teams
+- Me and remote teammates
+Config:
+- HP Z420 (work desktop) with 3 monitors and camera on the center monitor
+- Center monitor contains video streams of coworkers, right monitor contains Teams chat, and left monitor is available for reviewing related materials. All computer input from wireless keyboard and mouse",,Multiple times a day,Integrate,Meeting and Reference (docs),Classic integrate in meeting
+P50,"Zoom meetings: (in Zoom app) (with school faculty)
+One laptop for the camera, and to see members of the meeting
+One laptop for research and accessing pertinent data for the meeting.
+Phone for emerging contact.
+In family room, on table with adjustable height.
+
+",,Weekly,Integrate,Meeting and Search,
+P85,"Online live webinar training session, with Lenovo, using GoToWebinar, screen sharing... Microsoft Teams training, school district teachers, Surface Pro used to track messages during training; iPhone to receive calls from attendees experiencing technical difficulties. L shaped desk configuration... use of headset to conduct screen sharing / demonstration  ",,Daily,Integrate,Meeting and Technical Support ,
+P56,Work meetings and webinars I use my iPad to drive most of the meeting but my PC to share documents or advance slides. iPad is right below my PC. Also use iPhone to demonstrate iPhone app via Zoom. ,image.jpg,Multiple times a day,Integrate,Meetings - call and document sharing,
+P70,"Biking
+- iPhone open faced mounted on my handlebars for navigation using Komoot app. 
+- Apple Watch tracking heart rate and GPS in Strava. 
+I really wish I had smart glasses for this. I want a HUD.",,Weekly,Integrate,Navigation and Tracking,Navigation on phone because better view of the map?
+P12,"Photo editing, involves my phone and laptop, to transfer I use Your Phone app, phone can be anywhere but should be in the same WiFi network",,Weekly,Integrate,Photo Editing and Storage,
+P28,"Project management- usually utilizes the Surface Pro X and Microsoft Teams.  I have Teams setup for multiple projects and use it to manage each project.  If I am travelling then my Samsung Note 9 serves as my wifi hotspot, and for checking text messages. ",,Multiple times a day,Integrate,Project Management ,Integrate WIFI
+P80,#NAME?,15959966662142078435472.jpg,Multiple times a day,Integrate,Reading and Writing ,
+P60,"Setup 1 in the photo, access to Worksite through VPN (sophos VPN client), email on MS Exchange Server, integrated document management system (iManage), access OneDrive for Business, Microsoft Teams, billing portals through Aderant iTimekeep and Rippe, video conferencing through Teams, Webex, Google Meet and Zoom.  In home, Dell A-I-O desktop with 2nd Dell Monitor, Brother and Toshiba Scanner/Printer/Fax/Copiers.  Desktop hardwired to Verizon FIos Router, and also connected to Netgear Orbi Mesh Wifi Network, where the Brother and Toshiba are also connected.  Also, remote access other work related home PC's through TeamViewer software. The AIO and External Monitors are in a slightly obtuse angular configuration, approximately 120 degrees, and I use the WIndows 10 Project setting to ""extend"" to the second monitor.  I am able to sometimes combine a screen from on-site work terminal server through the VPN on the Dell A-I-O monitor, with a local document I am working on locally on the secondary monitor.  Also, I have an external microphone set up for dictation through Nuance  Dragon, with which I can dictate to text either to a local document or email, or to a document or email I am accessing remotely though the work VPN.   I have set up my onsite office something like this, but because of security on that end, the experience is better and less buggy from my home access.  ",Setup 1.jpg,Multiple times a day,Integrate,Remote Work/Doc and Local Work/Doc,Good participant
+P26,"Coding/research related work - Using my laptop to write and debug code related to work to perform astronomical research and analysis as well as code related to the technical operation of my workplace and its digital presence. The software involved is mainly VS Code, the 'new' Microsoft Edge, Jupyterlab, and Microsoft terminal. This is primarily a solo activity but may involve instant messaging coworkers and friends for reasons directly related to this activity, this messaging may be done either through my laptop or from my phone. This activity is performed in two different settings daily, the first setting is identical to the one from activity 1 (my bedroom setup). The second setting is my living room couch, which involves my phone being placed on the arm rest, books/notebooks/paperwork being placed on the endtable and beside me on the couch, and my laptop being used on my lap. ",,Multiple times a day,Integrate,Research and Coding,
+P48,"The digital signage in our kitchen pulls data from various Google and Office 365 calendars. Quite often someone in the family will use their phone or computer to put an event in the family calendar so that someone else will see it on the kitchen screen. My car can also consume those same calendars, and it will automatically put an event's location in my navigation if there is one. ",,Weekly,Integrate,Schedule and Sharing ,An interesting examples
+P50,"Tech support for school staff: I check the request email or text on my phone. I am in constant communication with staff who cannot accomplish a needed goal.
+I look up information on one laptop, or access settings for gmail, access the server or Meraki etc.
+I screenshare on another computer with the staff member so we can see what is going on and I can fix the problem and help them for next time. I may be in any software the school uses, such as Google Classroom, our standardized testing platform or our grade management system.
+One laptop is on my lap, one is an a nearby table, my phone is in my hand.
+Frankly, I am in physical therapy from trying to do this in distance learning. No kidding.",,Weekly,Integrate,"Search and Communciation
+Screenshare and Communication ",
+P96,"Concurrent web search, when an external reference pops up at work.
+Using my personal device for a parallel search.
+No software is involved.
+I am the sole user.
+The Surface Pro 6 devices are side by side on my workspace.",,Rarely,Integrate,Search and Search ,Parallel searches - maybe this is expand?
+P81,"I test VPN setups by managing the server (on AWS) on my PC and connecting with a client on my laptop. I sit at my office desk and have the laptop on a small table to my right.
+Software: OpenVPN Access Server",20191023_124630.jpg,Daily,Integrate,Set up and Testing,
+P53,"Work: I teach at two universities.  Prepare class presentations w PowerPoint. Teach classes w Zoom and video camera and clip on remote microphone.  Use phone, android and iPhone, for messages, photos, etc for classes. All in a spare bedroom converted to an office.
+
+",,Multiple times a day,Integrate,Teaching,
+P60,"My wife does remote teaching and tutoring, on the Surface Pro 3 through a Logitech Streaming Camera, and sometimes with a second, larger monitor.  She uses Google Meet and some school-related and proprietary tutoring company software but primarily utilizes Microsoft Whiteboard with her Surface Stylus as a stand-in for a chalk board that she shares with students.  We also use the Surface Pro and Logitech Camera for Zoom meetings.  ",Setup 3.jpg,Multiple times a day,Integrate,Teaching and Tutoring,Content sharing
+P23,"Video netcasting; involves lighting setup, microphone and other input mixing, XSplit Broadcaster pre-production, live production & recording, post-production; primarily only myself involved except when I have in-studio or remote guests",,Multiple times a day,Integrate,Video Netcasting,
+P49,"Watch streamIng
+
+Turn on roku from iPhone app
+Watch roku on Samsung tv
+Listen to audio from iPhone app on Bose 700",,Daily,Integrate,Watch TV - audio and video,A weird one but okay - headphone maybe the reason?
+P94,"data verification
+listening to sound files
+Audacity, Excel
+me alone
+
+having windows open on both the laptop and the monitor for ease of work. Also using network folder to access files. Using wireless mouse
+positioned as seen in foto.  Addition of ear buds for listening.
+This task comes and goes",office.JPG,Weekly,Integrate,Work - verification,
+P44,"User group leadership - involves coding, chat, video conferences, community social media & communications - mostly Microsoft office & Teams, Zoom, Slack, SaaS applications - self & team involved
+
+Desktop and large monitors used in home office on standing desk, 2 laptops used in kitchen or living room as portable devices",,Daily,Integrate,Work and Communciation ,
+P44,"Homelab, personal study, open source projects - involves coding, chat, video conferences - mostly vSphere suite of products, VSCode & PowerShell, Zoom, Slack  - self & team involved
+
+Desktop and large monitors used in home office on standing desk, 2 laptops used in kitchen or living room as portable devices",,Multiple times a day,Integrate,Work and Communciation ,
+P44,"Work - involves coding, chat, video conferences - mostly VSCode & PowerShell, Microsoft office & Teams - self & team involved
+
+Desktop and large monitors used in home office on standing desk, 2 laptops used in kitchen or living room as portable devices",,Multiple times a day,Integrate,Work and Communication,
+P83,"Working - Training
+Using my surface and external screen
+MS Office, Teams. Outlook, PowerPoint, 
+Remote Work Colleges and/or clients
+
+Surface in on the desk to the left of my personal computer.  An external monitor connected to the Surface is placed on a box so that the screen is above the surface. A headset is connected to a USB hub connected to the surface.
+
+Often I tether my phone to using wifi so I can use the faster cellular network.  I live in a rural area and the DSL is slow like below 4mb/s download.  4G LTE is much faster.  The phone is on the desk to the right on a wireless charger. ",20200729_104906.jpg,Multiple times a day,Integrate,Work and Communication,Integrate internet speed 
+P83,"Watching Webinars
+Usually just a browser or an application
+Edge, Teams, Zoom, GoToMeeting 
+Just me
+
+The desktop is to the right of the desk on the floor
+The keyboard mouse and monitor are on my desk right of my work setup.
+
+Often I tether my phone to using wifi so I can use the faster cellular network.  I live in a rural area and the DSL is slow like below 4mb/s download.  4G LTE is much faster.  The phone is on the desk to the right on a wireless charger. ",20200729_104906.jpg,Multiple times a day,Integrate,Work and Communication,Integrate internet speed 
+P52,"It’s not an activity per se but a lot of devices are just lying around, so that I don’t need to carry them from one space to another - our spaces are rural so separated and dragging a laptop around is annoying so... sometimes you just grab the closest one, and the basic experiences and needed data can be accessed via the NAS or google drive or github etc",,Multiple times a day,Integrate,Work and File Storage,File storage 
+P65,"Work involving Surface Pro 6 and Apple iPhone 11X. Surface is docked as 2nd screen and for video/audio while Dell UltraSharp 24” is primary screen. Phone is used as 3rd monitor, backup for Teams calls of Surface has issues   ",,Multiple times a day,Integrate,Work and Meeting,backup phone for call
+P24,"Describe activity:
+- Working on my Chromebook, while writing notes on my ThinkPad.
+- Work
+- Chromebook: ChromeOS; ThinkPad: Windows 10, OneNote
+- Me
+
+
+Configuration:
+- My Chromebook is propped on my worktable, while my ThinkPad is in tablet mode while I jot down notes on OneNote using its stylus.
+- Chromebook on the table, ThinkPad on my right hand.
+",,Multiple times a day,Integrate,Work and Note Taking,
+P96,"Concurrent log in to a personal membership account, when a work record requires updating my professional or personal profile.
+Using my personal device to log on and access my personal accounts.
+No software is involved.
+I am the sole user.
+The Surface Pro 6 devices are side by side on my workspace.",,Rarely,Integrate,Work and Personal Profile ,Interesting example when need to reference some information from personal profiles for work
+P99,"Mostly work or study. 2 monitors really help and are more convenient to work with.
+Software are normally IDE and searching web or official document, or emails and chat tools. The position is at my study/work spaces, monitors in a horizontal line. ",,Monthly,Integrate,"Work and Search
+Work and Communication - chat ",
+P70,"- Writing a paper
+- To get sunshine, I sit outside with the laptop and iPad on a table and bluetooth keyboard in my lap. 
+- I'll put the rendered PDF on the iPad using Apple's SideCar and then have the entire screen of my MacBook Pro devoted to the TeX code editor window.",,Weekly,Integrate,Write and View,Redering needs to go into different screen
+P41,"surface laptop with dell screen for all office for everything -  I am a sole proprietor and interior designer, so lots of product research, emails, all day long when I am in the office.  config is dell screen on a large riser from the container store for height, with laptop back and to the right ",,Daily,Integrate,,
+P25,"Dell PC at home is twin monitor for ease of use.. old and new powerpoints can be opened up together and i can drag and drop items on the fly. two HP 24'' monitors make this rather easy although the dell is a 7 year olf i3 and struggles a bit now, especially with photoshop.
+
+",,Multiple times a day,Integrate ,Create Slides,Can copy paste content over - referencing old documents
+P15,#NAME?,,Daily,Integrate ,Development - Client and Server,
+P21,"- Game development
+- creating 3d, sometimes VR games 
+- Unreal Engine and Visual Studio or Unity Engine and VS Code
+- Me and other workers remotely in other states
+
+- All intense software running on Windows Desktop with laptops running for watching videos and web browsing without weighing down the desktop
+- As in picture, Desktop on desk, laptop on side table",20200713_210605.jpg,Multiple times a day,Integrate ,"Development and Browse
+Development and Watch Videos",Distribute based on computing power needed - keep intense software on one device
+P42,"Gaming on my desktop using a mouse and keyboard with Steam and a RPG/FPS/strategy/city builder game. I frequently play with a friend and will use an Astro a50 headset, chatting over discord. The third monitor not used for the game or chat will have reference material for the game. The configuration was in the provided screenshot, 3 monitors in a curved fashion around me, using the mouse and keyboard.",20160115_234244.jpg,Daily,Integrate ,"Game Play and Communication
+Game Play and Communication ",
+P79,Attend or lead Web Conference - usually Webex and Office365 - the IPad is my camera (easier to move around than laptop in dock and higher quality) and having a second screen is useful to multitask and to view files on laptop/large monitor while still seeing participants or the screen sharing of the participant.  And I ALWAYS use the phone for higher voice quality that typical Internet voice.,,Multiple times a day,Integrate ,Meeting ,View participant and screen sharing - classic integrate 
+P17,"MS Teams online meetings with customers and colleagues, I  join from the app on my iPhone for audio, follow along on Surface for content sharing. My phone is beside me on my desk and Surface in front of me, TV monitor above desk on a movable wall mount (room doubles as a guest room)",,Multiple times a day,Integrate ,Meeting - audio and content sharing,Classic integrate
+P9,"1 - meeting and video calls, Teams meeting window on one screen, notes on the other screen, headset/speakerphone on, involving me and colleagues
+",,Multiple times a day,Integrate ,Meeting - video calls and Note Taking,
+P11,Web research - just me - Microsoft Edge and OneNote - Same physical setup as document creation,,Multiple times a day,Integrate ,Search and Note Taking,
+P5,"Video editing
+Involves creation of content for professional use.
+Pinnacle Studio, Adobe Photoshop
+I use the Medion PC to edit the video and pictures, and the Surface Pro 7 to search for information, and follow the running order",,Monthly,Integrate ,Video editing and search/reference,
+P38,I am watching Criterion Channel movies on my Lenovo All in One. I'm sitting on my couch and will use my Pixel to look up movie reviews from Google search.,,Weekly,Integrate ,Watch Movies and Browse Reviews,Classic integrate for non work 
+P13,"Check email, browse web, write reports, check analytics, plan projects mostly with online services, video conference in meetings, share documents, chat on Teams.
+
+Configuration is mostly with device in center and monitors around so I can glance side to side. ",,Multiple times a day,Integrate ,"Work (write reports, planning) and Communication",Glance device at the center 
+P32,"Lenovo is connected to Large monitor.  VM running on Lenovo on Main Monitor.  Microsoft Teams running on Lenovo Monitor.  Primary work is done on VM.  HP Z Book is primarily used for Outlook.  Mouse/Keyboard connected to Lenovo and both laptops are running Mouse without Boarders to allow single mouse/keyboard for both devises.  Samsung Phone is connected via ""Your Phone"" application.
+Remote Desktop Connection Manager is running on Lenovo and runs on the large monitor.  This is use to connect to various build, packaging, and testing servers to troubleshoot issues.
+Edge Browser is used to monitor builds.
+Outlook is used for e-mail
+Teams is used for communication.
+Your Phone is used to monitor notifications on phone.",,Multiple times a day,Integrate ,"Work and Communication - Emails, Chats",
+P30,"Activity: working activity using Microsoft Office apps and Microsoft Edge Browser to access my work files and activities using Google service platform (Gmail, Google Drive, Google Meet, Google Classroom), and also using my smartphone for signing documents
+
+Configuration:
+I connect my laptop to larger screen to make it easier for the eye and the neck to work all day since everything moved online, and put my phone nearby to help me sign documents. I rarely use my laptop since it is connected to external screen",,Daily,Integrate ,Work and Signing,Smartphone for signing documents 
+P28,"General work activity usually involves the Surface Pro X and the Samsung Galaxy Note 9.  I am usually using Edge, and/or Office 365 for work.  I use my Galaxy Note for checking text messages.  Text messages have become more integral to my communications and the phone is with me at all times.  ",,Multiple times a day,Integrate ,Work and Work Communication,
+P9,"2- writing - research on one screen, word on other screen, me alone
+",,Multiple times a day,Integrate ,Write and Research,
+P23,"For craftroom setup, the Surface Pro 4 is connected to external monitor (for larger viewing of instructional videos plus entertainment) and it is also connected to USB devices such as a Cricut; Various software tools are used for editing and producing images (via printer) or cut out (via Cricut and other devices) for use in craft development; One person typically involved.",,Multiple times a day,"Integrate, Expand",Watch Video ,Focus on hands on stuff
+P34,"Sitting at my desk working. Laptop in front of me as main keyboard, secondary key board to my side. Two phones under an old bank VDU stand holding a Surface Pro in a docking station. In front of me and above my laptop screen two screens attached to an Intel Nuc 9 under my desk. All three machines are controlled using Mouse Without Borders so my hands don't have to leave my keyboard.
+
+To the left of me on a small side desk is a plastic folder holding spare and test machines. Under my desk are two more NUCs, one the house server and one used for virtual machines when writing about server software. Also under the desk is a Synology NAS for media and file storage, shared with my wife.",,Daily,"Integrate, Expand",Work (Development?),Expand input modality 
+P75,"Programming: visual studio, chrome
+Often look up programming stuff on phone, while walking around, then lay on couch with laptop and hand-type url or re-search for same thing in laptop.
+Phone painfully on my belly while trying to type into laptop to transfer my session.",,Multiple times a day,"Integrate, Migrate","Search and Browse (different places)
+Development and Search ",Migrate for mobility / different places
+P59,"Work. Development using Windows OS and Tools, communications. 
+Software development tools - online and desktop products. 
+
+Configuration. 
+Windows laptop with VPN, 
+Intel NUC as secondary more performant machine for more demanding tasks. 
+Secure laptop for on call duties. ",,Daily,"Integrate, Partition",Development and Communication - on call,"Partition mandatory work and oncall duties
+Distribute tasks based on performance requirement"
+P86,"Another work activity, but when I am working on drawing in Revit, I use my iPad for reference PDFs that I can draw on and use my second monitor of my desktop for another reference pdf. This is a solo activity, so I’m usually listening to podcasts using my iPhone. My iPad in propped up so I can see it without looking down. The setup is similar to the first one where my iPad is on my desk, but off to the side. ",,Multiple times a day,"Integrate, Partition",Draw and Reference,Multiple references on devices
+P58,"Describe the activity: 
+
+   - What is the activity?  
+Working
+   - What does it in involve?
+MacBook, ipad, iphone
+   - What software is involved in this activity? 
+ onenote, vs code, browser, slack, zoom
+
+  - Who is involved? 
+I am, coworkers (virtually)
+- Describe the configuration:
+Laptop beside a monitor, ipad also beside it if I'm using the iPad as another screen otherwise the iPad is on the right of my mouse, phone is on a dock below my screen
+   - How are you using the devices?
+MacBook for my main work and video calla
+Ipad sometimes as a second extended screen, sometimes to write notes, and sometimes to be watching media. Phone is mainly used for messages and sometimes non work related distractions like instagram
+   - How are they positioned physically in the space?
+Laptop beside a monitor, ipad also beside it if I'm using the iPad as another screen otherwise the iPad is on the right of my mouse, phone is on a dock below my screen",,Daily,"Integrate, Partition","Focus Work and Note Taking
+Focus Work and Watch Media
+Focus Work and Social Media
+Focus Work and Communication - chats",Changing roles of devices
+P5,"Gaming
+Xbox One device to play, Surface Pro 7 to communicate with other players, look tutorials and play music.
+Microsoft Edge, Xbox One, Xbox Game Pass",,Daily,"Integrate, Partition","Game play, communication and search
+Game play and play music",
+P7,"Photography stuff. Here I am using Nikon photo editing software on my Surface Book. Photos are on the laptop and a portable hard drive. I also store photos on the HP desktop ( I am not currently using OneDrive to share photos across devices, only because I have not taken the time to figure out how to organize everything).
+Again I have the phone to monitor emails and news alerts and social media (twitter).
+Focus here is on the photo editing software which I am teaching myself to use.",,Weekly,"Integrate, Partition","Photo Editing and Storage
+Photo Editing and Communication ",Distribute storage
+P95,"When cooking I use a combination of my iPhone (or iPad) and an Amazon Echo.  I use my iPhone for recipes (Safari, Google Keep) and I used Amazon Echo as a cook timer and to stream audio (music, news or podcasts).  ",,Weekly,"Integrate, Partition",Reference and Timing,Interesting one for home task 
+P56,Cobrowsibg while watching TV in the living room. Involves using iPad IPhone to control what’s playing plus research. ,,Daily,"Integrate, Partition",Watch videos and browse,
+P34,"Sitting in the lounge, with a remote control for the XBox used as a media center. Usually with a phone for looking things up or social media. Running Plex as a media center app, with files stored on the NAS in the office. I may also be playing a game on a Nintendo Switch. My wife will be sat in another chair, probably crafting while watching.",,Daily,"Integrate, Partition","Watch Videos and Search
+Watch Videos and Social Media
+Watch Videos and Game Play",
+P55,"Working from home (full time, permanent)
+
+Dell laptop plugged in to a dock, connecting ethernet, two monitors, speakers, keyboard/mouse, and printer. Laptop is to the left, one monitor is centered, and one to the right. All three on risers to be eye level. 
+
+Generally working in Jira, office, answering emails, teams, conference calls, and web browsing. Work with team members across the company. Typically 50+ hours a week. Often use  either mobile phone or tablet to test or demo mobile software. 
+
+Fire tablet plugged in on the desk as a media control, often casting YouTube or Spotify to TV via chrome cast. ",,Multiple times a day,"Integrate, Partition","Work (reference, communication, browse) and Media Play",
+P68,"While working on a large dataset, I have an excel spreadsheet on my large 4k monitor while remote contrlolling assets RDP  on another screen.  I have outlook calendar open on another screen with teams and outlook mail in another (comms).  My screen layout changes with my mood",IMG_20200726_211701.jpg,Daily,"Integrate, Partition","Work and Communication 
+Analysis and Remote Control Assets",
+P20,"comics
+writing, concept art, story board, vector images
+requires office mobile apps, affinity art programs, onedrive, edge, snip & sketch, camera, sticky note, one note, groove music.
+my self and creative staff
+
+multiple devices set up, such as surface devices, latops and displays. for my self and staff to move images around and share and collaborate quickly. a game is usually available to play in the background to take mental brakes (this set up work for many of my projects) ",,Multiple times a day,"Integrate, Partition","Work and Share - collaboration
+Work and Game Play",Interesting about share - quickly drop something
+P42,"I develop hobby software projects using VSCode, Python or NodeJS, and GitHub. I may start this work on my desktop where I have multiple monitors to reference source information, tool documentation, the best IDE out there, and use the tv in the living room I can see as my office only has two walls separated by a hallway and a short wall, for controlling media playback. I'll then switch to using the laptop when I want to change location while continuing development, especially when the challenge is now in just implementing.
+
+Physically this is usually a sitting position, either at my desk or on a couch or bed or a friend's place.",,Weekly,"Integrate, Partition, Migrate","Development (reference, documentation)
+Development and Watch TV
+","Good example for migrate for mobility
+Good participant"
+P24,"Describe activity:
+- Playing a game on my ThinkPad, but I can't alt-tab my way out of it whenever I need to make a quick Bing search.
+- Laptop and Phone
+- Laptop: Steam and WIndows 10; phone: Edge for iOS
+- Me
+
+
+Configuration
+- When gaming, my laptop is on my table in laptop mode.
+- ThinkPad Yoga's laptop mode.",,Multiple times a day,"Integrate, Partitition",Game Play and Search,Had to stay full screen when playing games
+P26,"Video conferencing - Video meetings are frequently performed using Skype, MS Teams, and Zoom. Video conferences involve friends, coworkers, spouse, and supervisors/bosses. Video conferences can be personal, but most are work related and involve work discussions and planning as well as working together while video calling (coding, writing, analyzing/problem solving). While video conferencing, I am in my bedroom space on my bed with my laptop on my lap and my laptop is connected to a desktop monitor on a small desk that permanently overhangs above my bed. A Google home mini is Bluetooth connected to my laptop for Audio and sits on the base of the desktop monitor. My phone is usually involved for a variety of reasons including quick online searches (now that Cortana has been downgraded), taking notes on onenote using the phones pen input, instant messaging people not involved in the call for reasons related to the call, and more.",,Daily,"Integrate, Partitition","Meeting and Search 
+Meeting and Note Taking
+Meeting and Communication - chat ",messaging people who are currently not in the call
+P26,"Media consumption and personal use - For consuming media such as Spotify, Youtube, Mixer, and Netflix, I am usually alone in either setting 1 (my bedroom setup) or setting 2 (my living room. This activity often involves concurrent use of my laptop for media consumption as well as personal use (social media and instant messaging), alongside my phone for personal use, and my Nintendo Switch for casual gaming. The physical setup involves my laptop on my lap, connected to my desktop monitor, with my phone either beside me or in my hand, and my Switch either beside me or in my hand. Occasionally, gaming on my switch may involve online play via 'animal crossing', which is organized via communications on my phone or laptop.",,Multiple times a day,"Integrate, Partitition","Watch TV and Game Play
+Game Play and Communication ",
+P52,"Collect media from various cameras, catalog. This means mostly handheld cameras like Canon and Fuji but sometimes audio, or special cameras like garden monitors. Over the years I’ve grown the system to allow uploads and access when I travel around town or internationally. It depends on rocky but also Chrome Remote Desktop",image.jpg,Weekly,Migrate,Collecting photos ,An interesting merge example
+P91,"I often use my phone to stay in touch with my team when I'm away from my desktop.
+Primarily I will use the phone to consume information (read emails, etc) since I loathe typing long messages on the small device.  I will respond to emails or Teams chats if the response is short, otherwise I will wait until I get back to the desktop.
+
+If I find interesting content on my phone that requires more attention later, I will email myself a link and resume on the desktop.  The ""Continue on My PC"" app would have been great but it never seems to work for me.
+",,Multiple times a day,Migrate,Communication on the go,Interesting in the aspect of content transfer 
+P36,"Collaborating on a powerpoint for an upcoming presentation.
+* Initial powerpoint is best created using a Template or previous powerpoint. This usually works best from Work laptop at physical Desk location with focus on initial project creation, ideation on background, content, getting the powerpoint started.
+* Once the draft is done, work can be done anywhere from any device. An hour later I am downstairs in living room and remember I wanted to add a bullet to slide 5 for my talking points. Flip open iPad, open the powerpoint using OneDrive, edit the slide and make a note, close.
+* If the scenario is complicated like needing to add a photo or image from the web or prior art, using the iPad or phone somewhere else is impractical. Copy/Paste for slides and complex slide editing really only works reliably on a true windows computer/laptop. I have to wait until I am in work focus mode, go to the desk environment, or bring one of the laptops down (not the ipad), to make critical Edits. 
+* I email the link to the powerpoint (or the physical powerpoint file for those who still don't understand the Cloud and collaboration, of which there are far too many still but shrinking) to a small group. This works best from Desktop but can be from laptop roaming work in the house.
+* Receiving the email back with notes/comments/questions. If I am on the couch and get the email and it requires complex edits, I have to go back upstairs to the office to edit the powerpoint. If its just email trading comments, I can reply from the couch and finish that round of interaction. 
+* I still travel around some, not as much at the moment by far, but I might only have my phone at the dentist office or car repair, and get notes about this project. I can use Office products on android and read the emails, even open the powerpoint and see what the discussion is. I rarely if ever trust editing the powerpoint on my phone. Its just too small to verify overall visuals and that I didn't make a mistake. But the project can keep moving forward, I might just need to make a To Do reminder to make a change suggested in the email.
+
+Who: myself and usually 3-4 work colleagues
+Software: Outlook (for iOS, Android, Windows 10 Desktop; do not really like Outlook for the Web its just another confusing choice - wish Desktop/Web could merge). Office - Powerpoint in this case but similar for Word/Excel. Sharepoint - the App on iPad makes finding docs and browsing others easier. OneDrive - Used to see all documents and libraries and locate. Teams - used along with Outlook, people comingle comments in both. OneNote - I put most of the work plan, outline, and to do organization in a OneNote that goes alongside the PowerPoint (talk track outline).
+Physical setup - either my personal laptop or work laptop will be live on the monitor at my desk, I normally use the Work laptop to get things started per policy but may be playing a game or something and switch to work mode in my head and just use my personal laptop to pick up where I left off. I carry the ipad everywhere in my house - couch, porch, other rooms and pick up email and collaboration from there.",,Multiple times a day,Migrate,Create Slides - different phases and Communciation - Collaboration,"Good participant?
+Detailed migrate case"
+P29,"CRM Development
+Usage, Modifications, and enhancements to Dynamics 365
+Dynamics 365, XRM Studio, Power BI, Splashtop
+Myself
+
+I sync data using OneDrive and access files between devices to update and work on them.  Depending on what I'm doing, I may remotely connect to other machines to deploy changes or run certain software (XRM Studio).
+
+This would be typical office usage on desktops, sitting at desk and working.  For Surface devices, the use can be pretty much anywhere, at airport, on couch, remote office, etc.  But Surface devices are either on a desk in front of me, on my lap, on a pillow, or on an armrest (the stand is somewhat painful on legs after a time).",,Daily,Migrate,CRM Development ,Talking about using different devices for a same activity
+P92,#NAME?,,Daily,Migrate,Development ,Mobiility - change of scenery 
+P72,"Work
+
+IT and software development for a multi-national IT hardware distributor/reseller/system builder
+
+My main driver is my Surface Book 2, connected to 2 4K monitors via a Surface Dock; Surface Keyboard; Surface Mouse; Logitech webcam.
+
+Communication during the day is done over Teams either using a headset connected to the Surface Book, a Lenovo ThinkSmart View if I'm busy pushing the performance of the Surface Book; or via the iOS app on my iPhone if I'm away from my desk at the time the call comes in.
+
+At times I can also have my Macbook setup beside me that I use to test and build a couple of iOS apps.
+
+Everything bar the Macbook is on a standing desk that is always in the standing position (never got around to buying a desk chair in 3 years). Monitors are mounted on arms leaving more desk space for devices, USB fan, and Amazon Echo (for background music)",WIN_20200727_21_09_47_Pro.jpg,Multiple times a day,Migrate,Meeting,Answer the call with different devices based on differnet locations 
+P89,"Teams video calls - I'll sometimes call in using my iPhone if I'm upstairs or need to grab food in the kitchen, then transfer the call to my laptop once I'm back at the table",,Weekly,Migrate,Meeting,"Classic example of migrate for mobility - take care of other things
+Good participant "
+P29,"Zoom and team calls.
+Video Calls with my Team, colleagues, and friends/family.
+Zoom or Microsoft Teams
+Team, colleagues, or friends/family
+
+Either sitting at my work or home desk with a camera on top of monitors, or sitting on couch with Surface on my lap (or on a pillow on my lap) with headphones.",,Multiple times a day,Migrate,Meeting ,
+P45,"Listening to music
+Intel NUC and iPhone
+Spotify and Amazon Music
+Myself
+
+Playing music on Intel Nuc, audio devices Arturia AudioFuse and KRK Studio monitors, iPhone with headphones is used when I walk away from home to continue listening to the music. In the car automatically switch to the audio system there",,Multiple times a day,Migrate,Music Play,Automatic transition
+P17,Listening to audio books or podcasts. I purchase audio books on desktop browser that are then synced to iPhone or iPad OR use Sonos to stream directly from Audible or Pocket Casts.,,Daily,Migrate,Purchase and Listen to Podcast,
+P89,"Reading scholarly papers and marking them up - using my work laptop and my iPad. I use Adobe Acrobat or Mendeley to mark up papers on my laptop, but I sometimes read the paper and mark it up on my iPad using GoodReader, then export it and save it to my work OneDrive or into my Mendeley account",,Weekly,Migrate,Read and Note Taking and Save,Good example about save/consolidate in migrate
+P47,"- Reading news
+- phone, desktop, tablet
+- browsers and news apps
+- myself
+Config:
+- phone or tablet I use in hand, or I have stands that I place them in
+",news.jpg,Multiple times a day,Migrate,Reading,
+P61,Read books and websites on my iPad or iPhone. Anywhere in the house. Google Chrome for iOS and the Kindle app. ,,Daily,Migrate,Reading,
+P88,"I read eBooks on my kindle and iPhone Kindle app due to convenience. I will stop reading the book on my kindle, which usually resides in my home, and pick up reading on my iPhone when I'm out and about. ",,Weekly,Migrate,Reading,Same app experience 
+P42,"The second activity is reading content from the internet. I may start a tab on the iPad in chrome, switch to my laptop for typing responses or having better control in my interactions with it. If I find I want to do more research I may use my desktop to take advantage of the three+ tv monitors. This may lead to reading a book or pdf which I may do on my kindle for the epaper screen, or my phone for the ease of opening 100 tabs as I do deeper and deeper research. These tabs, and their children, may get closed over a month as I work my way through the content. The near universal software in this picture is the browser, and right now that is Chrome. There may be Adobe Acrobat or kindle software, but if I can use the browser, that is my preference. It frees me from caring about Microsoft vs Google vs Apple vs Amazon. Things not in a browser feel like a legacy at this point that are used because the web wasn't the universal constant it is becoming.
+
+My research activities take place laying in bed. Sitting on hold on my browser accessed phone while reading on my phone at my desk where I was working. Really, whenever I have a down moment and an interesting topic.",,Multiple times a day,Migrate,Reading and Research,Really good example for migrate scenario 
+P69,"Activity: Casual media consumption, web browsing and reading
+What does it involve: Watching content and reading
+What software is involved: Windows 10, Edge, Microsoft Movies & TV / Netflix / Amazon Prime / YouTube / Sky Go, Kobo Books, Microsoft To Do
+Who is involved: Just me
+How are you using the devices: Use of Samsung Galaxy S10+ (or Galaxy S8+) for consumption on-the-go. Bookmark content for immediate consumption into Microsoft To Do; bookmark content for later consumption into Microsoft OneNote. Use shared Cloud Clipboard to transfer URLs/content between phone and Surface Go. Use Surface Go for media consumption, reading of eBooks (on Kobo) and media consumption. Will use Microsoft Wireless Adapter or Xbox One X for pushing content from device to large TV screens.
+How are they positioned physically in the space: Phones and Surface Go used anywhere - from home office to bedroom to living room. Content synced in cloud across OneNote, Microsoft To Do, Microsoft Sticky Notes and Win10 Cloud Clipboard to allow ease of transferring content from one device to another.",,Multiple times a day,Migrate,"Reading, Browse, Casual Media Consumption",Choose device based on location/mobility
+P62,"I’m reading Twitter on my iPhone in my bedroom, and I want to be able to see a tweet on my Desktop tomorrow morning when I wake up.",,Multiple times a day,Migrate,Social Media,Transfer content between devices
+P96,"Downloading exercise data from my smartwatch to my personal tablet.
+My personal Surface Pro 6 and my Suntoo smartwatch.
+Suntoo's Windows 10 driver and Movescount application.
+I do this download.
+The Suntoo smartwatch connects to the USB port.
+Both devices are positioned on my workspace next to each other.",,Weekly,Migrate,Tracking - fitness ,Transfer data from device to device
+P88,Before bed I usually stream video on my playstation using apps like Netflix and YouTube (probably should have mentioned this device earlier). I may pause the show on the aforementioned devices and resume watching on my iPad (and vice versa) which mainly resides in my bedroom.,,Multiple times a day,Migrate,Watch Videos,Switch places
+P31,"Working in various places around the house, when I need to work and watch the kids. I take one laptop downstairs and use it for work or to RDP to the other computers in the office.",,Multiple times a day,Migrate,Work on Mobile,Need to take care of kids 
+P12,"Transferring files from PC to laptop or vice versa, Window 10 nearby share feature",,Weekly,Migrate,,
+P17,"Browsing, usually start on my iPhone or iPad but Browse on PC to my Surface to complete more complex orders (like takeout dinner)",,Daily,Migrate ,Browse and Complete Orders,
+P78,"Frankly, I find that generally speaking, devices don't interoperate well.  So although I own a lot of devices, I am usually trying to do as much as possible using a single device at a time.
+
+I have always wanted a much more seamless interaction of applications across my devices.  I've written blog entries about an application model I want, which I call personal application omnipresence.  But I won't link to that because it would identify me.
+
+I want to run singular applications and connect to them from all of my devices concurrently.
+
+In the disappointing real world, most cross-device applications are intermediated by proprietary cloud functionality, subject to the constraints and limited functionality imagined by the vendors.  For example, I can take photos on a camera and access them from my desktop via by my OneDrive account once the camera uploads the photo.  (I'd prefer that my phone just push the photo to my own file system.)
+
+Theoretically, you can use state synchronization of things like bookmarks and browsing history, but this is error-prone and fragile.
+
+An obvious multi-device use case I have is multi-player gaming or concurrent/collaborative work with my spouse.",,Daily,Migrate ,Camera and Accessing Photo,"Good participant, but not answer the question "
+P36,"Family budget process and meeting
+* Spouse creates an excel spreadsheet of monthly personal and business expenses vs budget.
+* Gmail for personal use initial budget
+* I review on my desktop with the big screen to try and identify risk areas/opportunity, set up discussion points for meeting together
+* We meet together to go over the numbers, I bring my ipad to her desk with the spreadsheet open so I can see it, she has the spreadsheet on her office computer or laptop.
+This is really awkward. She is at her desk and I am in a chair on the other side, trying to go through why certain numbers are high or low. My screen is small and she is in a comfy chair. 
+SW: Gmail, Excel, OneDrive
+",,Monthly,Migrate ,Discuss Budget Planning,again this participant is good 
+P22,"Checking mails, messages etc. and replying them. I always check mails and messages first thing in the morning as my daily routine is decided by it. I use Outlook desktop on the laptop, Outlook app, WhatsApp and SMS Organiser on the phone for this activity.
+
+I use outlook on the phone just to read mails. I reply and write mails mostly on my laptop. As for the messages, I only use phone. Phone is always with me in my pocket while laptop is placed on the table.",Screenshot_20200714-094950~2.png,Multiple times a day,"Migrate, Partition","Communication - Read to Write
+Communication - Email and Communication - Chats",
+P7,"Analyzing data and writing blog or social media posts.
+Again, I have the HP desktop and the phone. The focus is on the desktop because I need the large monitors to do the work. The phone now becomes the primary tool for reading emails or news alerts. The phone is on the mousepad or desk.",,Multiple times a day,Parition ,Analysis and Social Media,
+P14,"watching smart TV and using phone
+watching v web searches / telephone calls with phone
+samsung TV software v android/iOS
+anybody
+networked TV, wifi phone",,Daily,Parition ,Watch TV and Search/Phone Call,
+P3,"Use Whatsapp on private phone while working
+- Private phone is on right side next to the keyboard. 
+
+Also used to listen music via bluetooth headphones while being in office
+",,Daily,Parition ,"Work and Communication (chat)
+Work and Music",
+P90,"Activity
+- Personal e-mail, web browsing
+- Checking personal email and browsing the web (not for work)
+- Google Chrome
+- Just me
+Config:
+- Apple MacBook Pro with integrated display and 1 external monitor (the center monitor from the same setup described for work)
+- Laptop screen is on the left side (in front of the unused left monitor for work), and the center monitor is used to extend the screen. All input from wireless keyboard and mouse (laptop keyboard/trackpad not used).",,Multiple times a day,Partition,Browse and Communication - Emails ,
+P25,"DELL pc at work controls thee monitors for my use.. one monitor has email on, one runs powerpoints/photoshop demos and the other a system checker called Impero to monitor student work and screens (31pcs in the room). This pc also broadcasts the photoshop or pwerpoints to two 65'' 4k screen i the classroom. linked to office 365 so work can be prepared at home on my own Dell pc OR on the MS Surface GO.
+
+second PC at work has a single 65'' 4K tv for classroom demo work and access to the viewer software Impero to watch students work on their PCs (24pcs in room, 10 imacs). Also monitors the iMacs i have for CAD designing work (imac only software).",thumbnail_processed.jpg,Multiple times a day,Partition,"Communication (emails), Content Sharing, Monitor Students",Interesting one?
+P14,"work from home
+PC based v telephone based communication
+with persons connected through MS teams in work environment v phone for persons not connected to MS Teams in work environment (can be within or external to organisation)
+using work PC for work email v phone for personal email
+using phone for apps that are not available in work environment
+MS Teams v phone
+see uploaded photo for workstation, phone in pocket",,Multiple times a day,Partition,"Communication (teams) and Communication (no teams)
+Work and Personal",Separate communication based on other sides' availability
+P92,#NAME?,,Multiple times a day,Partition,Development and Email Triage,Interesting in email triage
+P92,Teams call /chat on companion device such as Go2 or Ipad pro while coding on main machine.  Companion device is either under monitor or slightly to the right.,,Multiple times a day,Partition,Development and Meeting,Meeting is irrelevant?
+P21,#NAME?,,Multiple times a day,Partition,Development and Play Music,
+P31,"My main activity with my multiple devices is for work. I work as an IT consultant with multiple clients and use the devices to separate my work with the different clients so I can work simultaneously on multiple issues. I have two main laptops used for work, one is connected to a 24"" monitor, all on my desk. I'm the only one working on these devices. I use Windows 10 on all my laptops. The main software I use is Office 365, Skype, Slack, Microsoft Edge (Chromium), VPN software, RDP software, Windows Terminal, and a password manager.",,Multiple times a day,Partition,Different Work,
+,,,,,,
+P95,"I use a Surface Go to the right of my Surface Laptop (or Surface Book depending on what I'm doing) to keep me abreast of my schedule and for Teams calls so that I can stay focused on my Surface Laptop for my primary work. 
+
+On the Surface Go I use Teams, Outlook or Outlook.com. ",,Multiple times a day,Partition,Focus Work and Communication / Schedule,
+P55,"Play light video games on Surface Pro 4 while using large TV and xbox one s to stream video. Generally alone or with significant other.
+
+Netflix, Disney plus, Amazon prime, Hulu, or YouTube on the Xbox. On the surface, mainly use steam. ",,Weekly,Partition,Game Play and Watch Videos,
+P51,"By the pool- bring iPad for streaming, phone to make calls and run Smart Tab with Bluetooth speaker for music",,Weekly,Partition,Media streaming and Communication - Calls,
+P16,"Meetings
+- Work: meetings with worldwide workers and partners
+- Using memote meeting software for average 6 meetings per day
+- Work: corporate s/w is Zoom, some partners use Zoom or GTM. Personal: various software used by my Meetup groups for my ongoing professional education - almost always Zoom.
+- Work: initiated by or or others - up to a dozen attend; personal education - initiated by the groups with several dozen in attendance 
+Configuration: 
+Work: i use multiple devicesif there are concurrent meetings.",5.jpg,Multiple times a day,Partition,Meeting - concurrent meetings,
+P81,"Team meetings (marketing team) on my work PC, over Slack, while I use my phone to look up industry related articles on Twitter or through Google.",,Weekly,Partition,Meeting and Browse/Search,
+P38,I am in a GoToMeeting video call using MacBook Pro Laptop and webcam. I use my large Apple display for additional windows like Slack and Outlook email.,,Multiple times a day,Partition,Meeting and Communication - chats and emails,Reversed screen priority
+P84,"3. iPad, Zoom meetings for work, off camera, in my bedroom. I had too many Zoom meetings with over 120+ people over the summer. I would tune into the meetings on my iPad. I had my Large TV on something else, and I would discuss the meeting with my colleagues on my phone. The set up, still in pajamas, reclining in bed! ",,Weekly,Partition,Meeting and Wathc TV,
+P83,"Editing photos
+Reviewing, editing, and uploading (publishing) photos.
+Windows, Luminar 4, & Adobe Lightroom
+Usually just me, sometimes I ask my wife for input on editing
+
+I use my Thinkpad.  Usually in different places in the home because I am usually doing other activities like watching TV.
+
+I may sit on the couch and put the laptop on the arm of the couch or the coffee table so I can edit or review while watching Tv. 
+
+I may sit in bed with a pillow under the laptop to edit or review photos.  Often I am also watching TV while I am doing that.  Typically at night.
+
+I may sit in the library on a chair with the laptop on my lap or small stand.  Usually I listen to music playing on the Echo Dot when I am in the libray (which is part of the master bedroom. 
+
+I may sit outside on the porch and edit photos.  Often I have my phone and a portable speaker so I can listen to music when I am out there. The speaker is connected via Bluetooth to the phone that is streaming the music.",,Weekly,Partition,Photo Editing and Watch TV,
+P39,"Another activity I perform using multiple devices:
+
+Reading while listening to music. 
+
+I typically read on my bed. The music plays from the second speaker on the google home speaker. 
+Music is usually played on spotify or youtube music. 
+
+Occasionally, I will play music on youtube on the TV (songs not available outside of youtube)
+
+Reading happens on the kindle app, or on Mood reader+. I typically read in bed. ",,Weekly,Partition,Reading and Music Play,
+P38,"I go running with both my Pixel and iPhone. My Pixel is used to track distance and time using the Nike Run Club app. The iPhone is used for listening to podcasts while running, default podcast player. I wear the Pixel using a running belt, the iPhone is held in my hand.",,Daily,Partition,Tracking and Podcast Play,
+P50,"I am following a twitch feed for professional development, or an Office version of Meet. (with professional dev leaders and participants.) (Fair Chance Learning if you care)
+I need to be able to also use Minecraft, So I am at my Dining room table with my Macbook Air (which has the non-beta version of MC:EE on it.) I am running Meet on my Dell laptop. My phone is always necessary. I take notes on a write erase board, and keep a tab open for digital note in Google drive. It may be easier to take a picture of the screen with my phone.
+It is just two laptops on a table, side by side. I use external mice. It is hard on my shoulders.",setup.jpg,Weekly,Partition,Watch streams and Game Play (?),two laptop setups
+P95,"I rarely watch TV without my iPhone or an iPad. I use the iPhone to receive notifications (meetings, Teams, text messages (iMessage), Facebook); to check email (Apple Mail) and often to look up stuff about the shows I'm watching (Safari, IMDB app). I also use my iPhone as a remote for the AppleTV and to control the house lighting (Siri, Lutron, Apple HomeKit)",,Daily,Partition,Watch TV and Browse / Social Media / Emails / Smart Home,
+P58,"- Describe the activity : 
+
+   - What is the activity ? 
+Watching TV and using the computer/ipad for random stuff like browsing the web or photo editing or working
+   - What does it in involve?
+Having the TV on while doing something else on the laptop, phone, and/or ipad
+   - What software is involved in this activity ? 
+Media apps, browser, social apps
+   - Who is involved? 
+Me
+- Describe the configuration:
+
+   - How are you using the devices? 
+Using the Xbox or apple tv for watching TV while I'm on the couch with a combination of iphone, laptop, ipad for the misc stuff. Iphone is my primary for messages and social media while I'm doing things on the laptop or ipad,
+   - How are they positioned physically in the space?",,Multiple times a day,Partition,"Watch TV and Browse
+Watch TV and Work
+Watch TV and Phot Editing",
+P97,3. Gaming - XBOX console - typically me only but occasionally with local and online players. I also will watch streamed content from Disney+ and on occasion will use the web browser app to access Windows Virtual Desktop and read corporate email or engage in Chat. ,,Daily,Partition,Watch TV and Communication - Chats / Work,
+P61,"Watch movies asks play video games from my sofa in the basement using a 65"" TV. Also use Roku and Nintendo Switch. Software includes Netflix, Hulu, and Disney+.",,Daily,Partition,Watch TV and Game Play,
+P33,"At mealtimes I watch TV from my table while eating breakfast.  I play a game on the iPad on the side, then after eating I move to the couch to finish watching the show.  Once I finish a level or game I am working through, I continue watching TV while checking personal e-mail or various web surfing from my Surface Pro.
+Software generally includes Outlook, Microsoft Edge, the Weather app.",,Multiple times a day,Partition,"Watch TV and Game Play
+Watch TV and Communication
+Watch TV and Browse",
+P75,"Phone, laptop, and smart TV
+Living room
+Laying on couch like a lazy person.
+Phone to left on couch within reach
+Laptop with angled table over me for typing
+Smart TV across living room for background noise ",,Multiple times a day,Partition,Watch TV and Other Things,
+P72,"Watching TV
+
+Either in the living room or bedroom.
+
+I'm terrible at focussing on a show/movie for more than about 30 minutes. After that I always find I grab another device and have to do something else white keeping an eye/ear on the TV. I either pick up my iPhone and review Twitter, or read a quick interesting article I have added to my reading list app. Or it's my Kindle to scan through quick short book - normally technical related (if you haven't realised I'm a self confessed geek!)  ",,Daily,Partition,"Watch TV and Social Media
+",
+P32,"Family room - large tv, Surface Pro 4, Samsung Phone, X-Box One.  Browser used for social media, some installed games on laptop for entertainment.  Xfinity used for TV and streaming services.",,Multiple times a day,Partition,"Watch TV and Social Media
+Watch TV and Game Play",
+P51,"Check work and personal email on all my devices in home office.  In kitchen, use Smart Tab for streaming WNYC and video programs like YouTube and Netflix.  Use bedroom computer at night ~ tablets when checking email from my moms house and use Lenovo Smart display to zoom with MIL",,Daily,Partition,Watch videos and Communication - Emails,
+P30,"Activity:
+For personal use, such as browsing social media, watching videos/movies online
+
+Configuration:
+The same as the first activity. Sometimes also using smartphone for texting while consuming media on PC",,Daily,Partition,Watch Videos and Communication - Texting,
+P84,"2. My desktop computer using Canvas LMS, and Zoom through the LMS during my teaching semester is another setup. I still have my phone with me to field calls, or FaceTime with colleagues. I do not need to use this home office set up with only one Summer class. The desktop is on a roll top desk, and there is a 24 inch monitor there too. I do access the LMS from Google Chrome so I cam keep all of my logins in one browser. That is a handy option when moving from one device to the next.
+",,Multiple times a day,Partition,Work and Communication - Video Call,Keep logins in one browser 
+P3,"Reading eMails/Documents on Phone while working on business computer
+- Business laptop and Business phone
+- Outlook Mobile
+
+Keyboard at 'best position'
+Phone is residing on left side in hand or next to thand",,Weekly,Partition,Work and Communication (Email),
+P37,"Post work hours - gaming, video streaming, work for volunteer purposes done on home pc.  Tower based - in living room. No photo available.",,Daily,Partition,Work and After Work,
+P3,"Doing skype/Teams calls via phone while working on the computer
+- Skype / Teams on Mobile
+
+Opening the skype/team call via phone (would be great to transfer a call from computer to phone via click)
+- Phone is in pocket to allow 'walk-arounds' in office during call
+- Sometimes, if presentation is running, phone is just between monitor and keyboard in upstanding position. ",,Daily,Partition,Work and Meeting,would change position of the phone if need to view things 
+P79,"Multitasking work and personal use - separate devices insure security and keep work separate from personal.  You can see my desk configuration with the work laptop connected via port replicator to large monitor, and Dell laptop for personal use sitting on top of it.  ",,Multiple times a day,Partition,Work and Personal ,Insure security and separate work from personal use
+P33,"In my home office I coordinate artist work utilizing proprietary software, and facilitate communications using industry standard e-mail, videoconferencing, and remote access tools.
+My personal tablet is set up in front of one of my desktop monitors for personal e-mail, my work tablet is set up in front of my second desktop monitor for videoconferencing, and I have an iPad to the side for music.",,Daily,Partition,Work and Personal and Music,
+P37,"Working on Surface Pro 4, I have music streaming from Surface Go.  I will check my personal email on the Go.  I may receive text on my Huawei phone, or updates in things like Facebook, messenger or Instagram.  ""Your Phone"" is NOT flawless so it's just easier for me to grab my phone than try to interact with Your Phone on the Go.  I may receive calls on my Samsung phone from co-workers but majority of communication for work is done on Surface Pro 4, via email, Skye for Business (SfB)and Cisco Jabber for voip calls.  Go is off to the left.  Centre, between to regular monitors is the Surface Pro 4.  I usually have multiple applications going, hence the need for 3 screens.   On the right of the table are the phones.   Work is Win10 for business and Office 365 as well as SAP.   Surface Go is on Windows Insider, running normally Firefox and Spotify.  Phones are Android 10 based.  For post hours, if I'm doing any online meetings, I swap out my Pro 4 with my Surface Go, to run Zoom with multi-monitor set up.  Some work/prep for these non-work meetings are done on Surface Go (Office 365) but most work is split with this device and Home PC.  Zoom calls are done on Go, as home PC is in busy living room.",,Daily,Partition,"Work and Personal Email
+Work and Music Play",
+P84,"1. I work from home on my HP laptop using the Canvas Learning management system when teaching. I also Zoom with students through the Canvas LMS as Zoom is able to be integrated with my class. I usually sit comfortably on my living room couch. When I am not on camera (that is only an office hour per online class in the Summer), I grade my students’ work will watching my large TV in my living room. I have children who are around as well, watching the large tv. My iPad is close by as I may FaceTime a colleague, or family member too. My laptop is on my lap as I do not need it daily. During the Spring Semester, I used a Levengers adjustable lap desk when I worked in the living room on my full teaching load, and Zooming classes.
+
+
+",,Weekly,Partition,"Work and Watch TV
+Work and Communication - Video Call",
+P40,"The third activity was watching TV series on the living room TV while working on the laptop or iPad.
+I use a 4th Generation Apple TV (HD), primarily for binge-watching from Netflix either on my own or with the family. I also use my Apple TV to view content stored on my iPhone or iPad using AirPlay. Then I work on the assignments and projects that were given by my college lecturers on either my ThinkPad laptop or my iPad using Microsoft Word and Outlook.",,Multiple times a day,Partition,Work and Watch Videos,
+P69,"Activity: Video calls
+What does it involve: Video calls for work or family.
+What software is involved: Microsoft Teams or Skype
+How are you using the devices: Surface Book 2 typically used for work calls via Teams; Surface Go usually used for Skype calls with family
+How are they positioned physically in the space: Generally roaming.",,Multiple times a day,Partition,Work Call and Family Call ,this remind me of people actually likes separation for different purpose/usage
+P11,"Creating or editing Office documents - One or more open documents (on large external monitor), still have Teams and Slack open (on laptop screen), still have Your Phone and Whatsapp open (on a second virtual desktop)
+I sit mostly facing the large monitor but still with the laptop in view",20200713_183128.jpg,Multiple times a day,Partition,"Writing, communication (work), communication (personal)",
+P10,"Activity: Work. Information security and forensics. Gmail, Outlook, Teams, Excel, Magnet AXIOM, Forensic Explorer, Chrome, Safari. Me. 
+Configuration: I currently move the HDMI cable from the monitor to whichever machine I am most actively using. The HP Z820 is to the right of my desk, monitor on top of course. I swap laptops based on what I'm doing. I keep the laptops in their respective bags or under a nearby table.",,Multiple times a day,Partition ,Different Work,
+P16,"Browsing
+- research, education, infotainment
+- Work PC: searching for information relevant to my job and reading web pages. Tower PC, phone and tablets: browsing for infotainment
+- Work PC: Firefox (official browser); Tower and phone: Edge; tablets (Firefox side-loaded to replace Amazon browser)
+- Who - me
+Config:
+- I am heavily using them since my work projects are int he research and definition phase now. On my personal devices, I am attempting to keep all my Favorites in the browsers in sync but there are issues.  One the Tablets, I cannot get the source needed top side-load Edge. My hope is to have identical Microsoft s/w on each, with identical information accessable across the board - I have that with OneDrive and Outlook but not with the browsers.",,Multiple times a day,Partition ,Search (infotainment) and Search (work),
+P20,"travel
+i always have my phone, surface go and switch with me (portable charger too)
+i can jump between devices easy and all are fairly portable. i also have a dongle for the surface go to attach to tv. 
+i game in my down time to help me destress so its nice to have my switch (and some PC games too) at hand. but i can jump back to the surface. im glad all three devices can charge on USB C as well. ",,Multiple times a day,Partition ,Work and Game Play,Streaming - be integrate or clone? 
+P6,"While I'm waiting for my PC to finish something that may take time, sometimes I'll grab my iPhone and see if I have any notifications by email on social media. (Software- native Twitter or NextDoor apps - built-in Apple Mail) In cases where I'd like to respond to something on social media, like with a photo, if it's a photo that I can find easily, I'll find it on my iCloud drive. If it's a photo that I'd like to see more clearly (bigger) or have to hunt for, I'll pick up my iPad and carry on from there. Physically, my iPhone is often near me - on my desk or in my pocket. The PC is in front of me. The iPad is often to my side, as I often leave it near my home office desk charging or just handy. (It's easier for me to find things when I put them back in ""their"" place)",,Multiple times a day,Partition ,Work and social media ,Partition to optimizie workflow?
+P62,"Office: watching TV while working on two different machines.
+
+I use Input Director to be able to span my mouse and keyboard between my Surface Book and my Desktop. The laptop is below my main 4K monitor, and my other 4K monitor is positioned to the left of that screen, while the 32” 1080 Samsung Smart TV is on the right.",,Multiple times a day,"Partition, Expand",Watch TV and Work,Expand input modality 
+P19,"I have two work laptops, only because work from home was rushed.  I was using Lenovo Thinkpad with the basic corporate build plus PhotoShop.  I was in the middle of upgrading to a HP Dragonfly when we switched to work from home.  It only has the basic corporate image, no PhotShop so I still use the ThinkPad a few times a week.  When using my Dragonfly for daily tasks, I connect it to my Surface for a second display.  My phone is always kept at hand for chat, either in my lap or on a nearby surface.  I work in whatever room I feel like throughout the day.",,Multiple times a day,"Partition, Expand ",Work and Communication - Chat,
+P82,Watching streamed movies and TV shows on the living room TV. It uses the TV and a Roku 2. The Roku software and usually the Hulu app are involved. Me and occasionally my relatives are involved. I'm using the Roku to stream content to the TV. The Roku sits next to the base of the TV. ,,Monthly,Singel Device (?),,
+P4,"Social media browsing
+Reading Twitter, or viewing twitch streams
+Android on phone. Social media apps
+I browse and read social media post/watch streams
+-------
+I use the phone in multiple zones and positions in my house",,Daily,Single Device,Social Media,
+P4,"Watch movies
+Resting in bed watching movies
+Smart TV operative system. Movies apps
+I watch movies in my tv
+-------
+I turn on the TV and search what to watch
+I lie in bed watching movies",,Daily,Single Device,Watch TV,
+P51,Take myThinkpad 490 when visiting Mom or MIL and need to use work Zoom.  Bring iPad to have larger screen for work email,,Weekly,Single Device,,Device chocies related to screen size 
+P72,"Gaming
+
+Large 4K TV and XBOX One X
+
+Either in the living room (primarily), or if my partner wants the soft and big TV I move the XBOX to the bedroom.
+
+If in the living room I'm reclined on my favourite seat that is front and centre in front of the TV for the best viewing. Otherwise, I'm sat on the end of the bed directly in front of the TV.",,Weekly,Single Device,,
+P82,"Gaming with my Ryzen desktop and 4K monitor. Usually involves Steam, occasionally libvirtd for Windows-only games. Only I am involved.
+
+I'm using the monitor to see the game. The desktop is positioned as a tower on my desk to the left of the monitor. ",,Daily,Single Device,,
+P82,Watching YouTube and other streaming content. I use my study TV and a Chromecast. Only I am involved. The TV is at the end of the room with the Chromecast plugged directly into it. ,,Rarely,Single Device,,Study TV sounds interesting
+P85,Online course monitoring for professional development for teachers in need of ongoing professional development credit. Use Surface Pro 4 .. Canvas learning management system. Provide rating and feedback to submitted assignments. Single device for this.,,Weekly,Single Device,,
+P94,"- Discussions over Teams
+- A colleague and I discussing a task and screen sharing as well as controlling the other's screen.
+- Using Teams, Visual Studios, coding website
+- A colleague and me
+
+Config
+- large monitor, laptop
+- See foto for set up",office.JPG,Weekly,Single Device,,
+P25,"MS surface GO is for when i dont want to sit at my desk or im in the car, coffee shop or waiting for the kids to finish their swimming lessons etc.
+
+during SARS-Cov2 i have used the GO to monitor emails from students while watching my kids, who are off school. Also used extensively for video calls in zoom and teams.. online courses sometimes take 3 or 4 hours of video calls, surface deals with the well as you can move about and not have to sit in the same seat. ",,Daily,Single Device ,Meeting - long video meeting ,Interseting about mobility 
+P41,"same office, but use the surface pro 4 for zoom meetings, etc to give me portability move back and forth from desk to drafting table.  I also use the main set up to search for things etc while maintaining the zoom screen on the surface pro 4",,Weekly,Single Device ,,Mobility
+P10,"Entertainment. We watch movies, television, and video games. Wii-U games, apps for Netflix, etc. Me, my wife, the kids.
+
+We control the devices using remotes. The TV is on top of an entertainment center (not mounted), the Fire TV stick, Wii-U, and Sony Bluray are all plugged into an HDMI hub behind the television.",,Multiple times a day,Unclear,,
+P10,"Gaming. Playing various PC games. Roblox, Elder Scrolls, World of Warcraft, Grand Theft Auto, etc. The kids.
+
+The kids play at their desks using a keyboard and mouse. There are desks on adjacent walls (i.e. at right angles to each other).",,Multiple times a day,Unclear,,
+P11,"Video meetings and calls - Microsoft Teams - Me and one or more colleagues
+I sit facing the laptop as that is where the webcam is located. I prefer the laptop elevated off the desk to get a more pleasing angle on my face (no double chins!)",20200713_182816.jpg,Multiple times a day,Unclear,,
+P30,"Activity:
+Using it for class meeting using Google Meet or having work meeting using Zoom 
+
+Configuration:
+The same with the first configuration (minus the smartphone), but adding a webcam on top of the screen",,Daily,Unclear,,
+P32,Kids use the laptops in various locations around the house to play Roblox together or separately.,,Multiple times a day,Unclear,,
+P34,"Waking up in the morning, checking email and social media on an iPad. Normally kept on a bedside table, Also used for casual gaming or reading web or digital comics.",,Daily,Unclear,,
+P37,"See description for second activity - background surfing / music streaming done on Surface Go during business day.  After work hours/weekend, Home PC is used by family members and myself for gaming, general surfing.  I'm primary user for Home PC for social media and general surfing during non work hours as other family members use phones or tablets for 'lite' stuff.",,Weekly,Unclear,,Share devices in families
+P45,"- Video & Audio calls
+- Work related calls with my company and calls with the customer I work with
+- Microsoft Teams and Microsoft Sykpe for Business and other Office 365 products when presenting 
+Customer relate calls and company related calls - I must use different Microsoft 365 account
+
+Intel Nuc is used to log in to customer Office 365 with teams. Main and sometimes 2. monitor as well (monitors can be controlled with the TV remote controlls), Audio with Arturia AudioFuse and a Shure boundery mic asconf room setup, Video via Logitech Brio 4K camera. See picture
+Surface Book 2 is used to log in to company Office 365 with teams. Surface monitor or 2 4K monitor (can be switched with remote contrl). Additionaly log in to customer S4B (their telefone and main comuniction system), so I can be reached. Audio is seperated with a Plantronics PLT V 6200 headset. Video via Surface front camera ",,Multiple times a day,Unclear,,Different accounts for class - client versus company
+P47,"- podcasts
+- listening with headphones
+- stitcher & browser based
+-  myself
+Config:
+- phone or tablet I use in hand, or I have stands that I place them in
+",stitcher.png,Multiple times a day,Unclear,,
+P47,"- streaming videos/movies
+- watching
+- netflix, amazon prime, youtube, browser based 
+- myself and wife
+Config:
+- phone or tablet I use in hand, or I have stands that I place them in
+",amazon.png,Weekly,Unclear,,
+P53,"Personal: we use devices wherever we are during the day. In kitchen foe breakfast to see news,  at deck for breakfast, on deck during lunch, on sofa in evening for relax and streaming movies. ",,Multiple times a day,Unclear,,
+P54,Work on personal projects paying bills with laptop scanner,,Multiple times a day,Unclear,,
+P62,"I see a tweet on my phone, and I send it over iMessage to my wife’s phone.",,Multiple times a day,Unclear,,
+P64,Do office work ,,Daily,Unclear,,
+P64,Surf Social Media,,Daily,Unclear,,
+P67,Dell laptop plus 2 hp monitors connected to dell dock.  Plantronics usb headset.  For work from home setup,,Multiple times a day,Unclear,,
+P67,blink hub plus 2 blink indoor and two blink outdoor cameras,,Multiple times a day,Unclear,,
+P67,lg connected tv us Xbox.  To play games and streaming Netflix sling and amazon,,Daily,Unclear,,
+P71,"Email, work and home.
+Photo scanning and vinyl conversion to digital.
+Shopping.",,Multiple times a day,Unclear,,
+P71,Retirement planning spreadsheets,,Never,Unclear,,
+P73,"Development - Desktop, Laptop - Visual Studio, VS Code, Postman, Windows Terminal, Docker
+
+At my desk or to the side my desk.
+",,Multiple times a day,Unclear,,
+P9,"3 - gaming - laptop on coffee table, controller in hand, child on other device or Xbox
+",,Daily,Unclear,,
+P54,Video calls with family can be on cell phone or ipad,,Daily,Unclear ,,
+P64,"Check emails - MS Outlook
+Surfing Web - MS Edge
+Coding - VS Code, VS 2019
+
+Some PCs I connect through SSH
+One monitor in landscape mode and other monitor potrait mode
+",,Multiple times a day,Unclear ,,
+P69,"Activity: General office work
+What does it involve: Generating documents, reviewing content, IT consultancy, financial/company management.
+What software is involved: Windows 10, Microsoft 365, Microsoft Office, Edge
+Who is involved: Just me
+How are you using the devices: Surface Book 2 folded backwards into slate mode (for ease of document annotations), connected to Surface Dock which is linked to two monitors (one portrait, one landscape) and Microsoft Sculpt Comfort Desktop.
+How are they positioned physically in the space: Surface Book 2 on left for easy access to pen/inking, two monitors side by side.",,Multiple times a day,Unclear ,,Integrate and partition I guess
+P73,"Web Browsing - I use Desktop, Laptop, Tablet and Phone - Firefix, Edge, Safari
+
+",,Multiple times a day,Unclear ,,
+P73,"Web Video - Desktop, Xbox,  Laptop, Tablet, and Phone - Native Netflix, YouTube, Amazon apps",,Multiple times a day,Unclear ,,
+P75,"Home office
+Desktop PC remotes into work PC, phone and smart TV 
+Phone often for stuff like this.
+Desktop PC has virtual desktops for personal use and work remote window.
+Smart TV on for noise 
+
+PC in front of me, phone flat on desk to left within reach, and smart TV to left from there. Controlled via remote.",,Multiple times a day,Unclear ,,
+P76,"2- Gaming
+I have four separate systems which I game on: Xbox, PS4, Switch, and Mac/PC through a VM. 
+
+The gaming systems are part of my TV entertainment center (see images 1-2 before). 
+
+My PC/Mac is on my Mac Pro, where I house two VM’s for older games and my Mac for upscale gaming. (See image 3)
+
+On my PC/Mac, I use dual monitors. ",,Multiple times a day,Unclear ,,
+P87,"Activity: Personal time
+- Watching TV and videos, reading, hobbies and other personal work
+- Macbook photo editing, ebook readers, TV applications, youtube, netflix, HBO max, hulu",,Weekly,Unclear ,,
+P93,"Work
+-Home office. The TV really just acts as a monitor. I do not use any of the smart features. Typical Microsoft Office suite.
+
+",,Multiple times a day,Unclear ,,
+P97,1. Read personal email - access to multiple email accounts - typically web browser or Outlook app - only me. Reading email throughout the day in various applications or browsers; I do not consolidate mailboxes into a single app but have tried this in the past. ,,Multiple times a day,Unclear ,,
+P19,"The photos I already shared show my work setup.  The Dragonfly is on the main tilted shelf, the Surface sits off to the side.  My Phone goes where ever.
+",,Never,,,
+P39,"When I need to use the smaller laptop, (13 inch macbook pro, I usually use a magic trackpad 2 alongside the laptop for my work.)
+
+Otherwise, screen usage patterns, apps being used is still the same. ",,Multiple times a day,,,
