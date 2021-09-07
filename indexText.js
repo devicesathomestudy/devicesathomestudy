@@ -1,3 +1,6 @@
+$(document).ready(function(){
+    $('.modal').modal();
+  });
 
 var activities = [];
 var photos = {}
@@ -55,8 +58,8 @@ d3.csv("TextAnalysis.csv", function(activities_, i){
     
 }).then(()=>{
 
-    console.log(photos)
-    console.log(dataDomain)
+    // console.log(photos)
+    // console.log(dataDomain)
     var data = [];
 
 
@@ -106,7 +109,7 @@ function launchViz(data){
        return d3.descending(a.type, b.type)
     })
        // set the dimensions and margins of the graph
-       var margin = {top: 400, right: 20, bottom: 30, left: 100},
+       var margin = {top: 200, right: 20, bottom: 30, left: 100},
           width = 1000 - margin.left - margin.right,
           height = 2000 - margin.top - margin.bottom;
  
@@ -128,8 +131,8 @@ function launchViz(data){
        // append a 'group' element to 'svg'
        // moves the 'group' element to the top left margin
        var svg = d3.select("#resultsGraph").append("svg")
-          .attr("width", width + margin.left + margin.right)
-          .attr("height", height + margin.top + margin.bottom)
+          .attr("width", window.innerWidth)//width + margin.left + margin.right)
+          .attr("height", window.innerHeight)//height + margin.top + margin.bottom)
           .call(d3.zoom().on("zoom", function () {
             svg.attr("transform", d3.event.transform)
          }))
@@ -167,7 +170,7 @@ function launchViz(data){
             //  })
              .on("mouseover", function(d) {	
                 
-                // console.log(d)
+                console.log(d)
                 var BB = d3.select(this).node().getBoundingClientRect();
                 // console.log(BB)
                 div.transition()		

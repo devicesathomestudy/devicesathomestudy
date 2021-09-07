@@ -36,6 +36,9 @@
     font-size: 20px;
       font-weight: bold;
   }
+  .modal{
+    width: 80% !important;
+  }
   img{
       width: 100%;
   }
@@ -51,6 +54,11 @@
     width: 250px;
     margin: auto;
     margin-top: 100px;
+  }
+  .headTitle2{
+    /* font-weight: bold */
+    font-weight: 700 !important;
+    font-size: 42px;
   }
   .intro-header{
     background: url('images/capture3.png');

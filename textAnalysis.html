@@ -1,12 +1,17 @@
 <html><head>
 
 
-    <!-- <script src="lib/jquery.min.js"></script> -->
-    <script type="text/javascript" src="d3.v5.js"></script>
+    <!-- <script type="text/javascript" src="lib/jquery.min.js"></script> -->
+    <script type="text/javascript" src="https://code.jquery.com/jquery-2.1.4.min.js"></script>
+
+    <script type="text/javascript" src="lib/d3.v5.js"></script>
 
     <!-- <script src="imagesloaded.js"></script> -->
 
-     <!-- <link type="text/css" rel="stylesheet" href="lib/materialize/css/materialize.min.css" media="screen,projection"> -->
+     <link type="text/css" rel="stylesheet" href="lib/materialize/css/materialize.min.css" media="screen,projection">
+     <script src="lib/materialize/js/materialize.min.js"></script>
+     
+     
      <link rel="stylesheet" type="text/css" href="mystyle.css">
 </head>
 <body>
@@ -26,9 +31,77 @@
 
 <div id="content">
 
+    <div class="col m12 offset-m0 headTitle" style="font-size:180%; margin-left: 50px;">
+        Example Scenarios for Each Pattern
+        <hr>
+    </div>
+    <!-- <div class="col m8 offset-m2 headTitle2 center">
+        Example Scenarios for Each Pattern
+    </div> -->
+    <div class="row">
+        <a class="modal-trigger" href="#modal1">
+        <div class="col m2 offset-m1">
+            <img src='concepts/clone.png' style='width:100%'/>
+        </div></a>
+    
+        <a class="modal-trigger" href="#modal2">
+        <div class="col m2">
+            <img src='concepts/expand.png' style='width:100%'/>
+        </div></a>
+
+        <a class="modal-trigger" href="#modal3">
+        <div class="col m2">
+            <img src='concepts/Integrate.PNG' style='width:100%'/>
+        </div></a>
+
+        <a class="modal-trigger" href="#modal4">
+        <div class="col m2">
+            <img src='concepts/migrate.png' style='width:100%'/>
+        </div></a>
+
+        <a class="modal-trigger" href="#modal5">
+        <div class="col m2">
+            <img src='concepts/expand.png' style='width:100%'/>
+        </div></a>
+
+    </div>
+
+    <div class="col m12 offset-m0 headTitle" style="font-size:180%; margin-left: 50px;">
+        Transitions
+        <hr>
+    </div>
+
+    <div class="row">
+        
+        <div class="col m12">
+            <img src='concepts/Transitions-1.jpg' style='width:100%'/>
+        </div>
+    </div>
+    
 
 
+ <!-- Modal Structure -->
+ <div id="modal1" class="modal" style='width: 90%; overflow: hidden;max-height: none;'>
+    <img src='concepts/clone.png' style='width:100%'/>
+  </div>
+  <div id="modal2" class="modal" style='width: 90%; overflow: hidden;max-height: none;'>
+    <img src='concepts/expand.png' style='width:100%'/>
+  </div>
+  <div id="modal3" class="modal" style='width: 90%; overflow: hidden;max-height: none;'>
+    <img src='concepts/Integrate.PNG' style='width:100%'/>
+  </div>
+  <div id="modal4" class="modal" style='width: 90%; overflow: hidden;max-height: none;'>
+    <img src='concepts/migrate.png' style='width:100%'/>
+  </div>
+  <div id="modal5" class="modal" style='width: 90%; overflow: hidden;max-height: none;'>
+    <img src='concepts/expand.png' style='width:100%'/>
+  </div>
 
+
+  <div class="col m12 offset-m0 headTitle" style="font-size:180%; margin-left: 50px;">
+    Visualization
+    <hr>
+</div>
 <div id="resultsGraph"></div>
 <script src="indexText.js"></script>
 
