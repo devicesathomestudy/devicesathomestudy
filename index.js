@@ -190,7 +190,7 @@ function launchViz(data){
  
        // var path = makeCurlyBrace(100, 100, 100, 400, 1, 1)
        var X = -400
-       var offset = 82;
+       var offset = 86;
 
        var playa = [0, 6, 4, 1, 4, 11, 9, 5, 11, 3, 4, 3, 5,3, 5]
        var name = [
