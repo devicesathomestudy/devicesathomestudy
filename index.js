@@ -139,7 +139,7 @@ function launchViz(data){
        return d3.ascending(a.type, b.type)
     })
        // set the dimensions and margins of the graph
-       var margin = {top: 400, right: 20, bottom: 30, left: 900},
+       var margin = {top: 100, right: 20, bottom: 30, left: 600},
           width = 12000 - margin.left - margin.right,
           height = 6500 - margin.top - margin.bottom;
  
@@ -168,7 +168,7 @@ function launchViz(data){
          }))
        .append("g")
         
-       .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
+       .attr("transform", "translate(" + margin.left + "," + margin.top + ")scale(0.7)");
  
         svg.append("g").attr("transform", "translate(-500,-100)")
             .append("text")
