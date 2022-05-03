@@ -1,7 +1,7 @@
 
 var activities = [];
 var photos = {}
-d3.csv("Photos.csv", function(activities_, i){
+d3.csv("data/Photos.csv", function(activities_, i){
     var headerToAvoid = 0;
 
     if (i > headerToAvoid){
@@ -9,7 +9,7 @@ d3.csv("Photos.csv", function(activities_, i){
     }
     // console.log(activities)
     var nameCategory = activities_['Photo ID'];
-    
+
     if (nameCategory[0] != " "){
         // console.log(activities_)
         for (key in activities_){
@@ -22,8 +22,8 @@ d3.csv("Photos.csv", function(activities_, i){
                 }
             }
             // console.log(nameCategory)
-            
-                
+
+
             }
     }
 
@@ -64,8 +64,8 @@ d3.csv("Photos.csv", function(activities_, i){
                     counterData[key2] = 1;
                 }
 
-                 
-                
+
+
                 var idUser_ = key
                 // if (key[1] == '-') idUser_ = idUser_.slice(0, 1) + idUser_.slice(2);
                 // if (key[1] == '-') idUser_ = idUser_.slice(0, 1) + idUser_.slice(2);
@@ -80,7 +80,7 @@ d3.csv("Photos.csv", function(activities_, i){
                 dataSplitted[0] = dataSplitted[0].replace('-', ' - ')
                 dataSplitted = dataSplitted.join(' ')
                 dataSplitted = dataSplitted.split(' ')
-                // 
+                //
                 if (dataSplitted[1] != "-"){
                     dataSplitted.splice(1, 0, "-");
                 }
@@ -93,21 +93,21 @@ d3.csv("Photos.csv", function(activities_, i){
                 }
 
                 dataSplitted = dataSplitted.join(' ')
-                
 
-                // 
+
+                //
                 // console.log(dataSplitted)
                 // console.log(idUser_)
                 data.push({
                     index: i,
                     id_: counterData[key2],
-                    idUser: dataSplitted, 
+                    idUser: dataSplitted,
                     type: key2,
                     value: photos[key][key2]
                 })
                 i++;
             }
-            
+
         }
     }
     console.log(data)
@@ -128,8 +128,8 @@ d3.csv("Photos.csv", function(activities_, i){
 
 function launchViz(data){
 
-   
-  
+
+
 
 
 
@@ -142,21 +142,21 @@ function launchViz(data){
        var margin = {top: 100, right: 20, bottom: 30, left: 600},
           width = 12000 - margin.left - margin.right,
           height = 6500 - margin.top - margin.bottom;
- 
+
        // set the ranges
        var x = d3.scaleLinear()
                 .range([0, width])
-                
+
        var y = d3.scaleBand()
                 .domain(data.map(function(d) { return d.type; }))
                 .range([height, 0])
                 .padding(0.001)
-                
- 
- 
+
+
+
        // var colorParticipant = d3.scaleOrdinal(d3.schemeSet3);
        var colorParticipant  = d3.scaleLinear();
- 
+
        // append the svg object to the body of the page
        // append a 'group' element to 'svg'
        // moves the 'group' element to the top left margin
@@ -167,49 +167,49 @@ function launchViz(data){
             svg.attr("transform", d3.event.transform)
          }))
        .append("g")
-        
+
        .attr("transform", "translate(" + margin.left + "," + margin.top + ")scale(0.7)");
- 
+
         svg.append("g").attr("transform", "translate(-500,-100)")
             .append("text")
             .style("font-size","50px")
             .style("font-weight","bold")
             .text(function(d,i){
-                return "Device Configuration Photo Analysis"
+                return "Device Physical Configurations Photo Analysis"
             })
- 
-       var max = width;  
+
+       var max = width;
        var minX = -600
- 
-    //    addBG(svg, minX, max,0, 300, 'red');   
-    //    addBG(svg, minX, max,300, 240, 'green');     
-    //    addBG(svg, minX, max,540, 120, 'blue');     
-    //    addBG(svg, minX, max,660, 120, 'red'); 
-    //    addBG(svg, minX, max,780, 270, 'green'); 
-    //    // addBG(svg, max,300, 180, 'red');      
- 
+
+    //    addBG(svg, minX, max,0, 300, 'red');
+    //    addBG(svg, minX, max,300, 240, 'green');
+    //    addBG(svg, minX, max,540, 120, 'blue');
+    //    addBG(svg, minX, max,660, 120, 'red');
+    //    addBG(svg, minX, max,780, 270, 'green');
+    //    // addBG(svg, max,300, 180, 'red');
+
        // var path = makeCurlyBrace(100, 100, 100, 400, 1, 1)
        var X = -400
        var offset = 86;
 
        var playa = [0, 6, 4, 1, 4, 11, 9, 5, 11, 3, 4, 3, 5,3, 5]
        var name = [
-           'Place', 
-           'Physical Artifacts', 
-           'Lighting', 
-           'Output', 
-           'Input', 
-           
-           'Fixation', 
-           'Distance', 
+           'Place',
+           'Physical Artifacts',
+           'Lighting',
+           'Output',
+           'Input',
+
+           'Fixation',
+           'Distance',
            'Device',
-           'Workspace Size', 
-           'Orientation', 
-           'Number of Workspaces', 
+           'Workspace Size',
+           'Orientation',
+           'Number of Workspaces',
            'Form_Homogeneous to Heterogeneous'
         ]
         var color = d3.scaleOrdinal(d3.schemeDark2);
-       
+
     var minA = 0;
     var maxA = 0;
     var maxABarackket = 0;
@@ -219,9 +219,9 @@ function launchViz(data){
         maxA = playa[i+1] * offset;
         maxABarackket += playa[i+1] * offset;
         console.log(minA, maxA)
-        addBG(svg, minX, max, minA, maxA, color(i));   
+        addBG(svg, minX, max, minA, maxA, color(i));
         appendBracket(svg, X, minA, X, maxABarackket, name[i], 10, 0.6);
-        
+
     }
 
 
@@ -229,30 +229,30 @@ function launchViz(data){
     var playa = [0, 11, 40, 23]
     var name = ['ENVIRONMENT', 'DEVICE & MODALITY', 'CONFIGURATION']
      var color = d3.scaleOrdinal(d3.schemeDark2 );
-    
+
     var minA = 0;
     var maxA = 0;
     for (var i =0; i < playa.length-1; i ++){
 
         minA += playa[i] * offset;
-        maxA += playa[i+1] * offset;  
+        maxA += playa[i+1] * offset;
         appendBracket(svg, X, minA, X, maxA, name[i], 10, 1);
-        
+
     }
     //    appendBracket(svg, X, 0, X, 525, 'Color', 10, 0.6);
     //    appendBracket(svg, X, 150, X, 240, 'Font', 5, 0.6)
     //    appendBracket(svg, X, 240, X, 300, 'Border', 5, 0.6)
     //    appendBracket(svg, X, 300, X, 360, 'Separator', 5, 0.6)
- 
+
     //    appendBracket(svg, X, 360, X, 470, 'Grouping', 5, 0.6)
     //    appendBracket(svg, X, 470, X, 540, 'Connector', 5, 0.6)
- 
+
     //    appendBracket(svg, X, 540, X, 660, 'Layout', 5, 0.6)
     //    appendBracket(svg, X, 660, X, 780, 'Digital/Analog', 5, 0.6)
     //    appendBracket(svg, X, 780, X, 900, 'Text', 5, 0.6)
     //    appendBracket(svg, X, 900, X, 1050, 'Image', 5, 0.6)
- 
- 
+
+
     //    var X = -320
     //    appendBracket(svg, X, 0, X, 300, 'Visual Style', 10, 0.6)
     //    appendBracket(svg, X, 300, X, 540, 'Structure', 10, 0.6)
@@ -260,13 +260,13 @@ function launchViz(data){
     //    appendBracket(svg, X, 660, X, 780, 'Digital/Analog', 10, 0.6)
     //    appendBracket(svg, X, 780, X, 1050, 'Content', 10, 0.6)
     //    // get the data
- 
+
        //   if (error) throw error;
- 
+
        // format the data
- 
+
        // Scale the range of the data in the domains
-       
+
     //    .replace(/ *\([^)]*\) */g, "");
        // var scaleX = d3.scaleLinea();
         // console.log(data)
@@ -277,69 +277,69 @@ function launchViz(data){
              .style('cursor', 'pointer')
              .attr("transform", function(d) {
                 // console.log(y(d.type))
-                return "translate(-50, " +  (y(d.type))+")"; 
+                return "translate(-50, " +  (y(d.type))+")";
              })
-            //  .on("click", function(d) {	
+            //  .on("click", function(d) {
             //     console.log()
             //     var urlConcat = "http://" + URLlink[d.Sketchnotes-1]
             //     var win = window.open(urlConcat, '_blank');
             //  })
-             .on("mouseover", function(d) {	
-                
+             .on("mouseover", function(d) {
+
                 // console.log(window.scrollX)
                 var BB = d3.select(this).node().getBoundingClientRect();
                 // console.log(BB)
-                div.transition()		
-                   .duration(0)		
-                   .style("opacity", 1);		
-                // div.html(d.Sketchnotes)	
-                //    .style("left", (BB.x +10) + "px")		
+                div.transition()
+                   .duration(0)
+                   .style("opacity", 1);
+                // div.html(d.Sketchnotes)
+                //    .style("left", (BB.x +10) + "px")
                 //    .style("top", (window.scrollY + BB.y - 35) + "px");
-                // console.log('<img src=Viz/image '+d.Sketchnotes+'.jpg>')	
+                // console.log('<img src=Viz/image '+d.Sketchnotes+'.jpg>')
                 // div.html('<img src="visualization/Viz/image ('+d.part+').png">')
-                div.html('<img class="imageHover" width="200px" src="images/miniatures/'+ d.idUser +'.jpg">')	
-                    .style("position", "absolute")		
-                    // .style("position", "absolute")		
-                   .style("left", (BB.x + 100 + window.scrollX) + "px")		
-                   .style("width", "400px")		
-                   .style("top", (window.scrollY + BB.y - 35) + "px");	
-                })					
-                .on("mouseout", function(d) {		
-                      div.transition()		
-                         .duration(0)		
-                         .style("opacity", 0);	
+                div.html('<img class="imageHover" width="200px" src="images/miniatures/'+ d.idUser +'.jpg">')
+                    .style("position", "absolute")
+                    // .style("position", "absolute")
+                   .style("left", (BB.x + 100 + window.scrollX) + "px")
+                   .style("width", "400px")
+                   .style("top", (window.scrollY + BB.y - 35) + "px");
+                })
+                .on("mouseout", function(d) {
+                      div.transition()
+                         .duration(0)
+                         .style("opacity", 0);
                 });
- 
- 
+
+
           // MY BAR ==> GROUP OF BARS
             var g = place.append('g')
              .attr("transform", function(d) {
                 // if (d.type == "Personal - Making it personal" && d.Condition == "VR") console.log(d)
- 
+
                 var y = 0//y1(d.Condition);
                 var x = (Math.ceil (d.id_));
-                var y2 = (d.id_ - x) * 80; 
-                return "translate("+(x*90)+","+(y2)+")"; 
-             
+                var y2 = (d.id_ - x) * 80;
+                return "translate("+(x*90)+","+(y2)+")";
+
              })
-             
+
         //   g.append("rect")
         //      .attr("class", "bar")
         //      // .attr("x", -1)
         //      .attr("width", 25)
         //      // .attr("y", -2)
         //      .attr("height", 25)
-        //      // .attr("fill",function(d,i){ 
+        //      // .attr("fill",function(d,i){
         //      //    if (d.part == 13) return 'red'
         //      // })
         //      .attr('stroke-width', '0.01')
         //      .attr('stroke', 'grey')
-        //      .attr("fill",function(d,i){ 
+        //      .attr("fill",function(d,i){
         //         // if (d.type == "Personal - Making it personal" && d.id_ == 1) return 'red'
-        //         // else  
-        //         return 'white';//colorParticipant(d.part) 
+        //         // else
+        //         return 'white';//colorParticipant(d.part)
         //      });//console.log(dParticipant)})
- 
+
           // g.append('text')
           // .text(function(d){
           //    return '#' + d.part
@@ -358,7 +358,7 @@ function launchViz(data){
                 // return  "visualization/Viz/image ("+d.part+")Cropped.jpg";
                 return  "images/miniatures/"+ d.idUser +".jpg";
              })
- 
+
           g.append("rect")
              .attr("class", "bar")
              .attr("width", 80)
@@ -368,7 +368,7 @@ function launchViz(data){
              .attr('stroke-width', '0.1')
 
 
-             
+
             // //  .attr('stroke', 'black')
             //  .attr("fill", 'black')
             //  .attr('stroke-width', '0.1')
@@ -384,7 +384,7 @@ function launchViz(data){
                     return 0;
                 }
                 // return  "visualization/Viz/image ("+d.part+")Cropped.jpg";
-               
+
              })
 
              g.append("text").text(function(d,i){
@@ -396,7 +396,7 @@ function launchViz(data){
                     return null;
                 }
                 // return  "visualization/Viz/image ("+d.part+")Cropped.jpg";
-               
+
              })
                 .attr('stroke', 'white')
                 .attr("dy", 20)
@@ -404,36 +404,36 @@ function launchViz(data){
             // //  .attr('stroke', 'black')
             //  .attr("fill", 'black')
             //  .attr('stroke-width', '0.1')
-             
- 
+
+
 // var svg2 = d3.select("#resultsGraph").append("svg").attr("width",360)
 //         .attr("height", height + margin.top + margin.bottom).style("position" , 'fixed')
 //         .style("background" , 'white')
 //         .style('top', '200px')
 //         .append("g")
-//         .attr("transform", 
+//         .attr("transform",
 //             "translate(" + margin.left + "," + margin.top + ")")
-      
+
 
 
 svg.append("g")
     .attr("class", "axis")
-    .style("font-size","16px") 
+    .style("font-size","16px")
     .style("font-family","Roboto")
-    .call(d3.axisLeft(y).tickFormat(function(d){  
+    .call(d3.axisLeft(y).tickFormat(function(d){
         // return d
         return d.replace(/ *\([^)]*\) */g, "").split('_')[2] + " #" + d.replace(/ *\([^)]*\) */g, "").split('_')[3];
     }));
- 
+
     // .replace(/ *\([^)]*\) */g, "");
-       var div = d3.select("body").append("div")	
-             .attr("class", "tooltip")				
+       var div = d3.select("body").append("div")
+             .attr("class", "tooltip")
              .style("opacity", 0);
- 
- 
- 
-         
- 
+
+
+
+
+
  };
  function appendBracket(svg, x1, y1, x2, y2, txt, p1, p2){
     bracket = svg.append("path").attr("class","curlyBrace");
@@ -441,7 +441,7 @@ svg.append("g")
     bracket.attr('fill', 'none')
     bracket.attr('stroke-width', '2px')
     bracket.attr('stroke', 'black')
- 
+
     svg.append("text")
     .style("font-family","Roboto")
     .style("font-size","20px")
@@ -459,7 +459,7 @@ svg.append("g")
     .attr("fill", color)
     .attr("opacity", 0.2);
  }
- 
+
  function makeCurlyBrace(x1,y1,x2,y2,w,q){
              //Calculate unit vector
              var dx = x1-x2;
@@ -467,7 +467,7 @@ svg.append("g")
              var len = Math.sqrt(dx*dx + dy*dy);
              dx = dx / len;
              dy = dy / len;
- 
+
              //Calculate Control Points of path,
              var qx1 = x1 + q*w*dy;
              var qy1 = y1 - q*w*dx;
@@ -479,11 +479,11 @@ svg.append("g")
              var qy3 = y2 - q*w*dx;
              var qx4 = (x1 - .75*len*dx) + (1-q)*w*dy;
              var qy4 = (y1 - .75*len*dy) - (1-q)*w*dx;
- 
+
          return ( "M " +  x1 + " " +  y1 +
-                  " Q " + qx1 + " " + qy1 + " " + qx2 + " " + qy2 + 
+                  " Q " + qx1 + " " + qy1 + " " + qx2 + " " + qy2 +
                    " T " + tx1 + " " + ty1 +
                    " M " +  x2 + " " +  y2 +
-                   " Q " + qx3 + " " + qy3 + " " + qx4 + " " + qy4 + 
+                   " Q " + qx3 + " " + qy3 + " " + qx4 + " " + qy4 +
                    " T " + tx1 + " " + ty1 );
          }
